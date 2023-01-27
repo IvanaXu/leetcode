@@ -31,6 +31,7 @@ Wait for update To be better !
 |[0205](https://leetcode.cn/problems/isomorphic-strings/)|36 ms	|15.2 MB	|🔶|
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms	|13.6 MB	||
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms	|13.6 MB	||
+|[0344](https://leetcode.cn/problems/reverse-string/)|56 ms	|19.6 MB	||
 |[0349](https://leetcode.cn/problems/intersection-of-two-arrays/)|28 ms	|15.1 MB	||
 |||||
 
