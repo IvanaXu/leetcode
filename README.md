@@ -43,5 +43,5 @@ Wait for update To be better !
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
 |[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|28 ms|15 MB||
-|[1360](https://leetcode.cn/problems/number-of-days-between-two-dates/)||||
+|[1360](https://leetcode.cn/problems/number-of-days-between-two-dates/)|32 ms|15 MB||
 |[]()||||
