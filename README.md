@@ -44,12 +44,16 @@ Wait for update To be better !
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
 |0601-0700 ⭕️|
 |0701-0800 ⭕️|
-|[0896](https://leetcode.cn/problems/monotonic-array/)|124 ms|26.2 MB||
 |0801-0900 ⭕️|
+|[0896](https://leetcode.cn/problems/monotonic-array/)|124 ms|26.2 MB||
 |0901-1000 ⭕️|
 |[0976](https://leetcode.cn/problems/largest-perimeter-triangle/)|52 ms|16 MB||
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
+|1001-1100 ⭕️|
+|1101-1200 ⭕️|
 |[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|28 ms|15 MB||
-|[1360](https://leetcode.cn/problems/number-of-days-between-two-dates/)|32 ms|15 MB||
+|1201-1300 ⭕️|
+|1301-1400 ⭕️|
+|[1360](https://leetcode.cn/problems/number-of-days-between-two-dates/)|32 ms|15 MB||s
 |[]()||||
