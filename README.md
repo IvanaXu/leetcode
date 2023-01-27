@@ -41,4 +41,5 @@ Wait for update To be better !
 |[0896](https://leetcode.cn/problems/monotonic-array/)|124 ms|26.2 MB||
 |[0976](https://leetcode.cn/problems/largest-perimeter-triangle/)|52 ms|16 MB||
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
+|[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
 |[]()||||
