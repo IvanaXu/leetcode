@@ -71,6 +71,7 @@ Wait for update To be better 🔶!
 |[1984](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|164 ms|15.1 MB||
 |[1985](https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/)|80 ms|21.3 MB||
 |[2011](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)|36 ms|15 MB||
+|[2114](https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/)|12 ms|15 MB|🔶🔶|
 |[2235](https://leetcode.cn/problems/add-two-integers/)|32 ms|14.9 MB||
 |[2351](https://leetcode.cn/problems/first-letter-to-appear-twice/)|28 ms|14.9 MB|🔶|
 |[2413](https://leetcode.cn/problems/smallest-even-multiple/)|24 ms|14.8 MB|🔶|
