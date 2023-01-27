@@ -64,6 +64,7 @@ Wait for update To be better !
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
 |1901-2000 ⭕️|
 |[1979](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/)|40 ms|15.1 MB||
+|[1984](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|164 ms|15.1 MB||
 |[]()||||
 
 
