@@ -21,24 +21,32 @@ Wait for update To be better !
 |[0066](https://leetcode.cn/problems/plus-one/)|40 ms|14.9 MB||
 |[0067](https://leetcode.cn/problems/add-binary)|28 ms|14.9 MB||
 |[0069](https://leetcode.cn/problems/sqrtx/)|48 ms|14.9 MB|🔶|
-|0101-9999 ⭕️|
+|0101-0200 ⭕️|
 |[0118](https://leetcode.cn/problems/pascals-triangle/)|52 ms|13.5 MB||
 |[0125](https://leetcode.cn/problems/valid-palindrome/)|44 ms|16.5 MB||
 |[0136](https://leetcode.cn/problems/single-number/)|40 ms|16.9 MB|🔶|
 |[0169](https://leetcode.cn/problems/majority-element/)|44 ms|16.5 MB||
 |[0191](https://leetcode.cn/problems/number-of-1-bits/)|28 ms|14.8 MB||
+|0201-0300 ⭕️|
 |[0202](https://leetcode.cn/problems/happy-number/)|44 ms|14.8 MB||
 |[0205](https://leetcode.cn/problems/isomorphic-strings/)|36 ms|15.2 MB|🔶|
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms|13.6 MB||
+|0301-0400 ⭕️|
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms|13.6 MB||
 |[0344](https://leetcode.cn/problems/reverse-string/)|56 ms|19.6 MB||
 |[0349](https://leetcode.cn/problems/intersection-of-two-arrays/)|28 ms|15.1 MB||
 |[0374](https://leetcode.cn/problems/guess-number-higher-or-lower/)|28 ms|14.8 MB||
+|0401-0500 ⭕️|
 |[0434](https://leetcode.cn/problems/number-of-segments-in-a-string/)|28 ms|14.9 MB||
 |[0448](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|64 ms|23.2 MB||
+|0501-0600 ⭕️|
 |[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
+|0601-0700 ⭕️|
+|0701-0800 ⭕️|
 |[0896](https://leetcode.cn/problems/monotonic-array/)|124 ms|26.2 MB||
+|0801-0900 ⭕️|
+|0901-1000 ⭕️|
 |[0976](https://leetcode.cn/problems/largest-perimeter-triangle/)|52 ms|16 MB||
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
 |[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
