@@ -3,6 +3,9 @@
 
 Wait for update To be better !
 
+
+* 0001-0100
+
 |No|Time|Memory|
 | - | - | - |
 |[0001](https://leetcode.cn/problems/two-sum/)|1656 ms |14.3 MB |
@@ -20,12 +23,20 @@ Wait for update To be better !
 |[0066](https://leetcode.cn/problems/plus-one/)|40 ms	|14.9 MB	|
 |[0067](https://leetcode.cn/problems/add-binary)|28 ms |14.9 MB	|
 |[0069](https://leetcode.cn/problems/sqrtx/)|48 ms	|14.9 MB	|
+
+
+* 0101-9999
+
+|No|Time|Memory|
+| - | - | - |
 |[0118](https://leetcode.cn/problems/pascals-triangle/)|52 ms	|13.5 MB	|
 |[0125](https://leetcode.cn/problems/valid-palindrome/)|44 ms	|16.5 MB	|
 |[0136](https://leetcode.cn/problems/single-number/)|40 ms	|16.9 MB	|
 |[0169](https://leetcode.cn/problems/majority-element/)|44 ms	|16.5 MB	|
 |[0191](https://leetcode.cn/problems/number-of-1-bits/)|28 ms	|14.8 MB	|
 |[0202](https://leetcode.cn/problems/happy-number/)|44 ms	|14.8 MB	|
+|[0205](https://leetcode.cn/problems/isomorphic-strings/)|36 ms	|15.2 MB	|
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms	|13.6 MB	|
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms	|13.6 MB	|
 ||||
+
