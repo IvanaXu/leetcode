@@ -21,6 +21,8 @@ Wait for update To be better !
 |[0067](https://leetcode.cn/problems/add-binary)|28 ms |14.9 MB	|
 |[0069](https://leetcode.cn/problems/sqrtx/)|48 ms	|14.9 MB	|
 |[0118](https://leetcode.cn/problems/pascals-triangle/)|52 ms	|13.5 MB	|
+|[0125](https://leetcode.cn/problems/valid-palindrome/)|44 ms	|16.5 MB	|
 |[0136](https://leetcode.cn/problems/single-number/)|40 ms	|16.9 MB	|
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms	|13.6 MB	|
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms	|13.6 MB	|
+||||
