@@ -39,4 +39,5 @@ Wait for update To be better !
 |[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
 |[0896](https://leetcode.cn/problems/monotonic-array/)|124 ms|26.2 MB||
-|||||
+|[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
+|[]()||||
