@@ -1,4 +1,3 @@
-# https://leetcode.cn/problems/sqrtx/
 class Solution:
     def mySqrt(self, x: int) -> int:
         eps = 0.00000001
