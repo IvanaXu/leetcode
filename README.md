@@ -66,6 +66,7 @@ Wait for update To be better 🔶!
 |1801-1900 ⭕️|
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
 |1901-2000 ⭕️|
+|[1929](https://leetcode.cn/problems/concatenation-of-array/)|36 ms|15.1 MB||
 |[1979](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/)|40 ms|15.1 MB||
 |[1984](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|164 ms|15.1 MB||
 |[1985](https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/)|80 ms|21.3 MB||
