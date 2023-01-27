@@ -1,4 +1,3 @@
-# https://leetcode.cn/problems/reverse-integer/
 class Solution:
     def reverse(self, x: int) -> int:
         base = 1
