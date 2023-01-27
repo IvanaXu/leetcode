@@ -23,6 +23,7 @@ Wait for update To be better !
 |[0118](https://leetcode.cn/problems/pascals-triangle/)|52 ms	|13.5 MB	|
 |[0125](https://leetcode.cn/problems/valid-palindrome/)|44 ms	|16.5 MB	|
 |[0136](https://leetcode.cn/problems/single-number/)|40 ms	|16.9 MB	|
+|[0169](https://leetcode.cn/problems/majority-element/)|44 ms	|16.5 MB	|
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms	|13.6 MB	|
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms	|13.6 MB	|
 ||||
