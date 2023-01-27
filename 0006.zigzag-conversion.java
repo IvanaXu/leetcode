@@ -1,4 +1,3 @@
-// https://leetcode.cn/problems/zigzag-conversion/
 class Solution {
     public String convert(String s, int numRows) {
         if ("".equals(s) || numRows <= 1) {
