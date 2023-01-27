@@ -1,4 +1,3 @@
-# https://leetcode.cn/problems/two-sum/submissions/
 class Solution:
     def twoSum(self, nums: List[int], target: int) -> List[int]:
         n = 0
