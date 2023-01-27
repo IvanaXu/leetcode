@@ -33,5 +33,6 @@ Wait for update To be better !
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms	|13.6 MB	||
 |[0344](https://leetcode.cn/problems/reverse-string/)|56 ms	|19.6 MB	||
 |[0349](https://leetcode.cn/problems/intersection-of-two-arrays/)|28 ms	|15.1 MB	||
+|[0374](https://leetcode.cn/problems/guess-number-higher-or-lower/)|28 ms |14.8 MB	||
 |||||
 
