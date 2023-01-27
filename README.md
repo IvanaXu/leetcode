@@ -44,6 +44,7 @@ Wait for update To be better !
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
 |0601-0700 ⭕️|
 |0701-0800 ⭕️|
+|[0728](https://leetcode.cn/problems/self-dividing-numbers/)|60 ms|14.9 MB||
 |0801-0900 ⭕️|
 |[0896](https://leetcode.cn/problems/monotonic-array/)|124 ms|26.2 MB||
 |0901-1000 ⭕️|
