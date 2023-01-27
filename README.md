@@ -65,6 +65,7 @@ Wait for update To be better !
 |1901-2000 ⭕️|
 |[1979](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/)|40 ms|15.1 MB||
 |[1984](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|164 ms|15.1 MB||
+|[1985](https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/)|80 ms|21.3 MB||
 |[]()||||
 
 
