@@ -1,4 +1,3 @@
-# https://leetcode.cn/problems/container-with-most-water/
 class Solution:
     def maxArea(self, height: List[int]) -> int:
         # TODO: /
