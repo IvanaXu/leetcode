@@ -61,7 +61,7 @@ Wait for update To be better 🔶!
 |1401-1500 ⭕️|
 |1501-1600 ⭕️|
 |1601-1700 ⭕️|
-|[1689](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|44 ms|15.3 MB||
+|[1689](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|44 ms|15.3 MB|🔶|
 |1701-1800 ⭕️|
 |1801-1900 ⭕️|
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
