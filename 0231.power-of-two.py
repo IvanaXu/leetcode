@@ -1,4 +1,3 @@
-# https://leetcode.cn/problems/power-of-two/
 class Solution:
     def isPowerOfTwo(self, n: int) -> bool:
         # return bin(n).rstrip("0") == "0b1"
