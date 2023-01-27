@@ -1,4 +1,3 @@
-# https://leetcode.cn/problems/longest-common-prefix/
 class Solution:
     def longestCommonPrefix(self, strs: List[str]) -> str:
         l, m, mk = "", 0, ""
