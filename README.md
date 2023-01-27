@@ -17,6 +17,7 @@ Wait for update To be better !
 |0048|56 ms	|13.4 MB	|
 |0050|48 ms	|13.8 MB	|
 |0058|68 ms	|13.6 MB	|
+|0066|40 ms	|14.9 MB	|
 |0069|48 ms	|14.9 MB	|
 |0118|52 ms	|13.5 MB	|
 |0231|56 ms	|13.6 MB	|
