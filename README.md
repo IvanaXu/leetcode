@@ -70,7 +70,6 @@ Wait for update To be better 🔶!
 |[1985](https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/)|80 ms|21.3 MB||
 |[2235](https://leetcode.cn/problems/add-two-integers/)|32 ms|14.9 MB||
 |[2413](https://leetcode.cn/problems/smallest-even-multiple/)|24 ms|14.8 MB|🔶|
+|[2469](https://leetcode.cn/problems/convert-the-temperature/)|28 ms|14.9 MB||
 |[]()||||
-
-
 
