@@ -36,4 +36,5 @@ Wait for update To be better !
 |[0374](https://leetcode.cn/problems/guess-number-higher-or-lower/)|28 ms|14.8 MB||
 |[0434](https://leetcode.cn/problems/number-of-segments-in-a-string/)|28 ms|14.9 MB||
 |[0448](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|64 ms|23.2 MB||
+|[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
 |||||
