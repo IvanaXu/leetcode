@@ -64,6 +64,7 @@
 |1301-1400 ⭕️|
 |[1323](https://leetcode.cn/problems/maximum-69-number/)|28 ms|15 MB||
 |[1360](https://leetcode.cn/problems/number-of-days-between-two-dates/)|32 ms|15 MB||
+|[1365](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/)|56 ms|15.1 MB||
 |1401-1500 ⭕️|
 |[1470](https://leetcode.cn/problems/shuffle-the-array/)|24 ms|15.1 MB|🔶🔶|
 |1501-1600 ⭕️|
