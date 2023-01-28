@@ -79,6 +79,7 @@
 |[2000](https://leetcode.cn/problems/reverse-prefix-of-word/)|28 ms|15 MB|🔶|
 |2001-2100 ⭕️|
 |[2011](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)|36 ms|15 MB||
+|[2057](https://leetcode.cn/problems/smallest-index-with-equal-value/)|36 ms|15 MB||
 |2101-2200 ⭕️|
 |[2114](https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/)|12 ms|15 MB|🔶🔶|
 |2201-2300 ⭕️|
