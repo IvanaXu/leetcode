@@ -1,7 +1,8 @@
 # leetcode
 > https://leetcode.cn/u/ivanaxu/
 
-* 🔶 for 90%+, 🔶🔶 for 100%, Wait For Update To Be Better!
+* 🔶 for 90%+, 🔶🔶 for 99%+ or 100%
+Wait For Update To Be Better!
 
 |No|Time|Memory||
 | - | - | - | - |
@@ -62,7 +63,7 @@
 |[1323](https://leetcode.cn/problems/maximum-69-number/)|28 ms|15 MB||
 |[1360](https://leetcode.cn/problems/number-of-days-between-two-dates/)|32 ms|15 MB||
 |1401-1500 ⭕️|
-|[1470](https://leetcode.cn/problems/shuffle-the-array/)|32 ms|15.1 MB|🔶|
+|[1470](https://leetcode.cn/problems/shuffle-the-array/)|24 ms|15.1 MB|🔶🔶|
 |1501-1600 ⭕️|
 |1601-1700 ⭕️|
 |[1689](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|44 ms|15.3 MB|🔶|
