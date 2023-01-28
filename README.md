@@ -2,7 +2,8 @@
 > https://leetcode.cn/u/ivanaxu/
 
 * 🔶 for 90%+, 🔶🔶 for 99%+ or 100%
-Wait For Update To Be Better!
+* Wait For Update To Be Better!
+
 
 |No|Time|Memory||
 | - | - | - | - |
