@@ -15,6 +15,7 @@
 |[0011](https://leetcode.cn/problems/container-with-most-water/)|116 ms|14.9 MB||
 |[0014](https://leetcode.cn/problems/longest-common-prefix/)|56 ms|13.7 MB||
 |[0017](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)|56 ms|13.3 MB||
+|[0027](https://leetcode.cn/problems/remove-element/)|32 ms|15 MB||
 |[0048](https://leetcode.cn/problems/rotate-image/)|56 ms|13.4 MB||
 |[0050](https://leetcode.cn/problems/powx-n/)|48 ms|13.8 MB||
 |[0058](https://leetcode.cn/problems/length-of-last-word/)|68 ms|13.6 MB||
