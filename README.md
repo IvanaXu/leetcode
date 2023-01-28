@@ -41,6 +41,7 @@
 |[0448](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|64 ms|23.2 MB||
 |0501-0600 ⭕️|
 |[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
+|[0506](https://leetcode.cn/problems/relative-ranks/)|36 ms|16.2 MB|🔶|
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
 |0601-0700 ⭕️|
 |0701-0800 ⭕️|
