@@ -112,6 +112,7 @@
 |[2206](https://leetcode.cn/problems/divide-array-into-equal-pairs/)|36 ms|15.2 MB|🔶|
 |[2235](https://leetcode.cn/problems/add-two-integers/)|32 ms|14.9 MB||
 |[2239](https://leetcode.cn/problems/find-closest-number-to-zero/)|60 ms|15.2 MB||
+|[2264](https://leetcode.cn/problems/largest-3-same-digit-number-in-string/)|32 ms|15 MB|🔶|
 |[2278](https://leetcode.cn/problems/percentage-of-letter-in-string/)|32 ms|15 MB||
 |[2283](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)|28 ms|14.9 MB|🔶|
 |2301-2400 ⭕️|
