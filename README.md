@@ -58,6 +58,7 @@
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
 |1001-1100 ⭕️|
 |1101-1200 ⭕️|
+|[1137](https://leetcode.cn/problems/n-th-tribonacci-number/)|32 ms|14.9 MB||
 |[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|28 ms|15 MB||
 |1201-1300 ⭕️|
