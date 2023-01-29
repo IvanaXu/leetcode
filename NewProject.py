@@ -8,6 +8,8 @@ with open("README.md", "r") as f:
             i = i.split("|")[1].split("](https://leetcode.cn/problems/")
             i1, i2 = i[0].replace("[", ""), i[1].replace("submissions/", "").replace("/)", "")
             
+            # 
             os.system(f"vim {i1}.{i2}.py")
+            os.system(f"cat {i1}.{i2}.py")
             os.system(f"sh SUMBIT.sh {i1}.{i2}.py")
 #
