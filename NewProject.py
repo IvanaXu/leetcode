@@ -9,7 +9,7 @@ with open("README.md", "r") as f:
             i1, i2 = i[0].replace("[", ""), i[1].replace("submissions/", "").replace("/)", "")
             
             # 
-            os.system(f"vim {i1}.{i2}.py")
+            os.system(f"vim {i1}.{i2}.py && clear")
             print("-"*100)
             os.system(f"cat {i1}.{i2}.py")
             print("-"*100)
