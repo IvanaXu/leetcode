@@ -77,6 +77,7 @@
 |[1422](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)|36 ms|14.9 MB||
 |[1470](https://leetcode.cn/problems/shuffle-the-array/)|24 ms|15.1 MB|🔶🔶|
 |[1480](https://leetcode.cn/problems/running-sum-of-1d-array/)|36 ms|15.1 MB||
+|[1486](https://leetcode.cn/problems/xor-operation-in-an-array/)|36 ms|14.9 MB||
 |1501-1600 ⭕️|
 |[1507](https://leetcode.cn/problems/reformat-date/)|28 ms|15.1 MB|🔶|
 |[1550](https://leetcode.cn/problems/three-consecutive-odds/)|36 ms|15.1 MB||
