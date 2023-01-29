@@ -109,6 +109,7 @@
 |[2235](https://leetcode.cn/problems/add-two-integers/)|32 ms|14.9 MB||
 |[2239](https://leetcode.cn/problems/find-closest-number-to-zero/)|60 ms|15.2 MB||
 |[2278](https://leetcode.cn/problems/percentage-of-letter-in-string/)|32 ms|15 MB||
+|[2283](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)|28 ms|14.9 MB|🔶|
 |2301-2400 ⭕️|
 |[2309](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)|32 ms|15 MB|🔶|
 |[2351](https://leetcode.cn/problems/first-letter-to-appear-twice/)|28 ms|14.9 MB|🔶|
