@@ -118,6 +118,7 @@
 |[2351](https://leetcode.cn/problems/first-letter-to-appear-twice/)|28 ms|14.9 MB|🔶|
 |2401-2500 ⭕️|
 |[2413](https://leetcode.cn/problems/smallest-even-multiple/)|24 ms|14.8 MB|🔶|
+|[2418](https://leetcode.cn/problems/sort-the-people/)|36 ms|15.4 MB|🔶|
 |[2427](https://leetcode.cn/problems/number-of-common-factors/)|32 ms|15 MB||
 |[2465](https://leetcode.cn/problems/number-of-distinct-averages/)|20 ms|15 MB|🔶🔶|
 |[2469](https://leetcode.cn/problems/convert-the-temperature/)|28 ms|14.9 MB||
