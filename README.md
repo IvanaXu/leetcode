@@ -47,6 +47,7 @@
 |[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
 |[0506](https://leetcode.cn/problems/relative-ranks/)|36 ms|16.2 MB|🔶|
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
+|[0520](https://leetcode.cn/problems/detect-capital/)|32 ms|15 MB|🔶|
 |0601-0700 ⭕️|
 |0701-0800 ⭕️|
 |[0728](https://leetcode.cn/problems/self-dividing-numbers/)|60 ms|14.9 MB||
