@@ -23,7 +23,7 @@
 |[0050](https://leetcode.cn/problems/powx-n/)|48 ms|13.8 MB||
 |[0058](https://leetcode.cn/problems/length-of-last-word/)|68 ms|13.6 MB||
 |[0066](https://leetcode.cn/problems/plus-one/)|40 ms|14.9 MB||
-|[0067](https://leetcode.cn/problems/add-binary)|28 ms|14.9 MB||
+|[0067](https://leetcode.cn/problems/add-binary/)|28 ms|14.9 MB||
 |[0069](https://leetcode.cn/problems/sqrtx/)|48 ms|14.9 MB|🔶|
 |0101-0200 ⭕️|
 |[0118](https://leetcode.cn/problems/pascals-triangle/)|52 ms|13.5 MB||
