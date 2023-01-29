@@ -1,6 +1,7 @@
 # leetcode
 > https://leetcode.cn/u/ivanaxu/
-[![Website](https://img.shields.io/github/languages/code-size/IvanaXu/leetcode)](https://leetcode.cn/u/ivanaxu)
+
+[![Website](https://img.shields.io/github/languages/code-size/IvanaXu/leetcode)]()
 
 * 🔶 for 90%+, 🔶🔶 for 99%+ or 100%
 * Wait For Update To Be Better!
