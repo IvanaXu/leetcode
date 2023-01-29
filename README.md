@@ -80,6 +80,7 @@
 |[1470](https://leetcode.cn/problems/shuffle-the-array/)|24 ms|15.1 MB|🔶🔶|
 |[1480](https://leetcode.cn/problems/running-sum-of-1d-array/)|36 ms|15.1 MB||
 |[1486](https://leetcode.cn/problems/xor-operation-in-an-array/)|36 ms|14.9 MB||
+|[1491](https://leetcode.cn/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|32 ms|14.9 MB||
 |1501-1600 ⭕️|
 |[1507](https://leetcode.cn/problems/reformat-date/)|28 ms|15.1 MB|🔶|
 |[1528](https://leetcode.cn/problems/shuffle-string/)|44 ms|14.8 MB|🔶🔶|
