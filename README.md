@@ -116,6 +116,7 @@
 |2401-2500 ⭕️|
 |[2413](https://leetcode.cn/problems/smallest-even-multiple/)|24 ms|14.8 MB|🔶|
 |[2427](https://leetcode.cn/problems/number-of-common-factors/)|32 ms|15 MB||
+|[2465](https://leetcode.cn/problems/number-of-distinct-averages/)|20 ms|15 MB|🔶🔶|
 |[2469](https://leetcode.cn/problems/convert-the-temperature/)|28 ms|14.9 MB||
 |2501-2600 ⭕️|
 |[2520](https://leetcode.cn/problems/count-the-digits-that-divide-a-number/)|36 ms|14.9 MB||
