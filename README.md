@@ -67,6 +67,7 @@
 |1301-1400 ⭕️|
 |[1323](https://leetcode.cn/problems/maximum-69-number/)|28 ms|15 MB||
 |[1342](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/)|24 ms|14.9 MB|🔶🔶|
+|[1356](https://leetcode.cn/problems/sort-integers-by-the-number-of-1-bits/)|32 ms|15 MB|🔶🔶|
 |[1360](https://leetcode.cn/problems/number-of-days-between-two-dates/)|32 ms|15 MB||
 |[1365](https://leetcode.cn/problems/how-many-numbers-are-smaller-than-the-current-number/)|56 ms|15.1 MB||
 |1401-1500 ⭕️|
