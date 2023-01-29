@@ -108,6 +108,7 @@
 |[2206](https://leetcode.cn/problems/divide-array-into-equal-pairs/)|36 ms|15.2 MB|🔶|
 |[2235](https://leetcode.cn/problems/add-two-integers/)|32 ms|14.9 MB||
 |[2239](https://leetcode.cn/problems/find-closest-number-to-zero/)|60 ms|15.2 MB||
+|[2278](https://leetcode.cn/problems/percentage-of-letter-in-string/)|32 ms|15 MB||
 |2301-2400 ⭕️|
 |[2309](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)|32 ms|15 MB|🔶|
 |[2351](https://leetcode.cn/problems/first-letter-to-appear-twice/)|28 ms|14.9 MB|🔶|
