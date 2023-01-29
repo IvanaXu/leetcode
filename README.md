@@ -56,6 +56,7 @@
 |0801-0900 ⭕️|
 |[0896](https://leetcode.cn/problems/monotonic-array/)|124 ms|26.2 MB||
 |0901-1000 ⭕️|
+|[0905](https://leetcode.cn/problems/sort-array-by-parity/)|36 ms|15.6 MB|🔶|
 |[0976](https://leetcode.cn/problems/largest-perimeter-triangle/)|52 ms|16 MB||
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
 |1001-1100 ⭕️|
