@@ -95,6 +95,7 @@
 |2301-2400 ⭕️|
 |[2413](https://leetcode.cn/problems/smallest-even-multiple/)|24 ms|14.8 MB|🔶|
 |[2469](https://leetcode.cn/problems/convert-the-temperature/)|28 ms|14.9 MB||
+|[2427](https://leetcode.cn/problems/number-of-common-factors/)|32 ms|15 MB||
 |2401-2500 ⭕️|
 |[2520](https://leetcode.cn/problems/count-the-digits-that-divide-a-number/)|36 ms|14.9 MB||
 |[2535](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/)|60 ms|15.4 MB||
