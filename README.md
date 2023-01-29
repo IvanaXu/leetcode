@@ -71,6 +71,7 @@
 |[1470](https://leetcode.cn/problems/shuffle-the-array/)|24 ms|15.1 MB|🔶🔶|
 |1501-1600 ⭕️|
 |[1507](https://leetcode.cn/problems/reformat-date/)|28 ms|15.1 MB|🔶|
+|[1550](https://leetcode.cn/problems/three-consecutive-odds/)|36 ms|15.1 MB||
 |1601-1700 ⭕️|
 |[1689](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|44 ms|15.3 MB|🔶|
 |1701-1800 ⭕️|
