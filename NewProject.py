@@ -10,6 +10,8 @@ with open("README.md", "r") as f:
             
             # 
             os.system(f"vim {i1}.{i2}.py")
+            print("-"*100)
             os.system(f"cat {i1}.{i2}.py")
+            print("-"*100)
             os.system(f"sh SUMBIT.sh {i1}.{i2}.py")
 #
