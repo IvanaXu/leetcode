@@ -74,7 +74,7 @@
 |[1385](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/)|80 ms|18.6 MB||
 |[1399](https://leetcode.cn/problems/count-largest-group/)|124 ms|15 MB||
 |1401-1500 ⭕️|
-|[1422](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)|36 ms|14.9 MB||
+|[1422](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/submissions/)|36 ms|14.9 MB||
 |[1470](https://leetcode.cn/problems/shuffle-the-array/)|24 ms|15.1 MB|🔶🔶|
 |1501-1600 ⭕️|
 |[1507](https://leetcode.cn/problems/reformat-date/)|28 ms|15.1 MB|🔶|
