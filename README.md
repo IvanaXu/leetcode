@@ -82,6 +82,7 @@
 |[1507](https://leetcode.cn/problems/reformat-date/)|28 ms|15.1 MB|🔶|
 |[1528](https://leetcode.cn/problems/shuffle-string/)|44 ms|14.8 MB|🔶🔶|
 |[1550](https://leetcode.cn/problems/three-consecutive-odds/)|36 ms|15.1 MB||
+|[1556](https://leetcode.cn/problems/thousand-separator/)|24 ms|14.9 MB|🔶🔶|
 |1601-1700 ⭕️|
 |[1689](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|44 ms|15.3 MB|🔶|
 |1701-1800 ⭕️|
