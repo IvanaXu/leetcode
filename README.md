@@ -114,6 +114,7 @@
 |[2283](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)|28 ms|14.9 MB|🔶|
 |2301-2400 ⭕️|
 |[2309](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)|32 ms|15 MB|🔶|
+|[2325](https://leetcode.cn/problems/decode-the-message/)|32 ms|15.1 MB|🔶|
 |[2351](https://leetcode.cn/problems/first-letter-to-appear-twice/)|28 ms|14.9 MB|🔶|
 |2401-2500 ⭕️|
 |[2413](https://leetcode.cn/problems/smallest-even-multiple/)|24 ms|14.8 MB|🔶|
@@ -127,7 +128,6 @@
 |[2535](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/)|60 ms|15.4 MB||
 |2601-2700 ⭕️|
 |[]()||||
-
 
 
 
