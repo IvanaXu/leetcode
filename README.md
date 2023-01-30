@@ -37,6 +37,7 @@
 |0201-0300 ⭕️|
 |[0202](https://leetcode.cn/problems/happy-number/)|44 ms|14.8 MB||
 |[0205](https://leetcode.cn/problems/isomorphic-strings/)|36 ms|15.2 MB|🔶|
+|[0217](https://leetcode.cn/problems/contains-duplicate/)|60 ms|27 MB||
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms|13.6 MB||
 |0301-0400 ⭕️|
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms|13.6 MB||
