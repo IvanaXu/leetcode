@@ -107,6 +107,7 @@
 |[1684](https://leetcode.cn/problems/count-the-number-of-consistent-strings/)|112 ms|16.6 MB||
 |[1689](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|44 ms|15.3 MB|🔶|
 |1701-1800 ⭕️|
+|[1704](https://leetcode.cn/problems/determine-if-string-halves-are-alike/)|28 ms|15.1 MB|🔶🔶|
 |1801-1900 ⭕️|
 |[1816](https://leetcode.cn/problems/truncate-sentence/)|36 ms|15.1 MB||
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
