@@ -95,6 +95,7 @@
 |[1816](https://leetcode.cn/problems/truncate-sentence/)|36 ms|15.1 MB||
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
 |1901-2000 ⭕️|
+|[1909](https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/)|272 ms|14.9 MB||
 |[1929](https://leetcode.cn/problems/concatenation-of-array/)|36 ms|15.1 MB||
 |[1952](https://leetcode.cn/problems/three-divisors/)|32 ms|15 MB|🔶|
 |[1961](https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/)|28 ms|15 MB|🔶|
