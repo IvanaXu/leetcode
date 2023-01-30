@@ -39,6 +39,7 @@
 |[0205](https://leetcode.cn/problems/isomorphic-strings/)|36 ms|15.2 MB|🔶|
 |[0217](https://leetcode.cn/problems/contains-duplicate/)|60 ms|27 MB||
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms|13.6 MB||
+|[0263](https://leetcode.cn/problems/ugly-number/)|32 ms|14.9 MB|🔶|
 |0301-0400 ⭕️|
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms|13.6 MB||
 |[0344](https://leetcode.cn/problems/reverse-string/)|56 ms|19.6 MB||
