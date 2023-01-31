@@ -36,6 +36,7 @@
 |[0169](https://leetcode.cn/problems/majority-element/)|44 ms|16.5 MB||
 |[0190](https://leetcode.cn/problems/reverse-bits/)|32 ms|14.8 MB|🔶|
 |[0191](https://leetcode.cn/problems/number-of-1-bits/)|28 ms|14.8 MB||
+|[0195](https://leetcode.cn/problems/tenth-line/)|0 ms|3.6 MB|🔶🔶|
 |0201-0300 ⭕️|
 |[0202](https://leetcode.cn/problems/happy-number/)|44 ms|14.8 MB||
 |[0205](https://leetcode.cn/problems/isomorphic-strings/)|36 ms|15.2 MB|🔶|
