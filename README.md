@@ -48,6 +48,7 @@
 |[0263](https://leetcode.cn/problems/ugly-number/)|32 ms|14.9 MB|🔶|
 |[0268](https://leetcode.cn/problems/missing-number/)|40 ms|16 MB|🔶|
 |[0278](https://leetcode.cn/problems/first-bad-version/)|36 ms|14.8 MB||
+|[0290](https://leetcode.cn/problems/word-pattern/)|28 ms|14.8 MB|🔶🔶|
 |0301-0400 ⭕️|
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms|13.6 MB||
 |[0342](https://leetcode.cn/problems/power-of-four/)|48 ms|14.9 MB||
