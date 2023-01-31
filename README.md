@@ -128,6 +128,7 @@
 |[2000](https://leetcode.cn/problems/reverse-prefix-of-word/)|28 ms|15 MB|🔶|
 |2001-2100 ⭕️|
 |[2011](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)|36 ms|15 MB||
+|[2032](https://leetcode.cn/problems/two-out-of-three/)|36 ms|15.1 MB|🔶🔶|
 |[2057](https://leetcode.cn/problems/smallest-index-with-equal-value/)|36 ms|15 MB||
 |[2089](https://leetcode.cn/problems/find-target-indices-after-sorting-array/)|28 ms|14.8 MB|🔶🔶|
 |[2094](https://leetcode.cn/problems/finding-3-digit-even-numbers/)|5712 ms|15.1 MB||
