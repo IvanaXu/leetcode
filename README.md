@@ -132,6 +132,7 @@
 |[2094](https://leetcode.cn/problems/finding-3-digit-even-numbers/)|5712 ms|15.1 MB||
 |2101-2200 ⭕️|
 |[2114](https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/)|12 ms|15 MB|🔶🔶|
+|[2154](https://leetcode.cn/problems/keep-multiplying-found-values-by-two/)|36 ms|15.2 MB||
 |[2180](https://leetcode.cn/problems/count-integers-with-even-digit-sum/)|52 ms|14.9 MB||
 |[2185](https://leetcode.cn/problems/counting-words-with-a-given-prefix/)|32 ms|15.1 MB|🔶|
 |2201-2300 ⭕️|
