@@ -145,6 +145,7 @@
 |[1832](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)|40 ms|14.8 MB||
 |[1844](https://leetcode.cn/problems/replace-all-digits-with-characters/)|36 ms|14.9 MB||
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
+|[1880](https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/)|32 ms|15 MB|🔶|
 |1901-2000 ⭕️|
 |[1909](https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/)|272 ms|14.9 MB||
 |[1929](https://leetcode.cn/problems/concatenation-of-array/)|36 ms|15.1 MB||
