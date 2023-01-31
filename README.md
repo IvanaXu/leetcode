@@ -112,6 +112,7 @@
 |[1408](https://leetcode.cn/problems/string-matching-in-an-array/)|40 ms|15.1 MB||
 |[1422](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)|36 ms|14.9 MB||
 |[1431](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/)|24 ms|14.9 MB|🔶🔶|
+|[1436](https://leetcode.cn/problems/destination-city/)|40 ms|15.1 MB||
 |[1447](https://leetcode.cn/problems/simplified-fractions/)|836 ms|15.8 MB||
 |[1455](https://leetcode.cn/problems/check-if-a-word-occurs-as-a-prefix-of-any-word-in-a-sentence/)|28 ms|14.9 MB|🔶|
 |[1464](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)|32 ms|15.1 MB|🔶|
