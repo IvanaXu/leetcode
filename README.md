@@ -109,6 +109,7 @@
 |[1385](https://leetcode.cn/problems/find-the-distance-value-between-two-arrays/)|80 ms|18.6 MB||
 |[1399](https://leetcode.cn/problems/count-largest-group/)|124 ms|15 MB||
 |1401-1500 ⭕️|
+|[1408](https://leetcode.cn/problems/string-matching-in-an-array/)|40 ms|15.1 MB||
 |[1422](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)|36 ms|14.9 MB||
 |[1431](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/)|24 ms|14.9 MB|🔶🔶|
 |[1447](https://leetcode.cn/problems/simplified-fractions/)|836 ms|15.8 MB||
