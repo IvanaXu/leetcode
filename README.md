@@ -131,6 +131,7 @@
 |[1629](https://leetcode.cn/problems/slowest-key/)|32 ms|15.1 MB|🔶|
 |[1636](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)|36 ms|15.1 MB||
 |[1662](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)|40 ms|14.9 MB||
+|[1668](https://leetcode.cn/problems/maximum-repeating-substring/)|32 ms|15 MB|🔶|
 |[1672](https://leetcode.cn/problems/richest-customer-wealth/)|40 ms|15 MB||
 |[1684](https://leetcode.cn/problems/count-the-number-of-consistent-strings/)|112 ms|16.6 MB||
 |[1689](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|44 ms|15.3 MB|🔶|
