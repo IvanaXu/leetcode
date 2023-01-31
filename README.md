@@ -68,6 +68,7 @@
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
 |[0520](https://leetcode.cn/problems/detect-capital/)|32 ms|15 MB|🔶|
 |[0537](https://leetcode.cn/problems/complex-number-multiplication/)|32 ms|15 MB|🔶|
+|[0599](https://leetcode.cn/problems/minimum-index-sum-of-two-lists/)|84 ms|15.3 MB||
 |0601-0700 ⭕️|
 |0701-0800 ⭕️|
 |[0709](https://leetcode.cn/problems/to-lower-case/)|28 ms|14.8 MB|🔶|
