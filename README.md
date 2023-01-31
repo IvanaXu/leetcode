@@ -140,6 +140,7 @@
 |[1748](https://leetcode.cn/problems/sum-of-unique-elements/)|28 ms|15 MB|🔶🔶|
 |[1768](https://leetcode.cn/problems/merge-strings-alternately/)|20 ms|15.1 MB|🔶🔶|
 |[1773](https://leetcode.cn/problems/count-items-matching-a-rule/)|40 ms|19.2 MB|🔶|
+|[1796](https://leetcode.cn/problems/second-largest-digit-in-a-string/)|36 ms|15 MB|🔶|
 |1801-1900 ⭕️|
 |[1812](https://leetcode.cn/problems/determine-color-of-a-chessboard-square/)|24 ms|15 MB|🔶🔶|
 |[1816](https://leetcode.cn/problems/truncate-sentence/)|36 ms|15.1 MB||
