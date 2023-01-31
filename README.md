@@ -100,6 +100,7 @@
 |[1281](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|32 ms|15 MB||
 |[1295](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/)|40 ms|15.1 MB||
 |1301-1400 ⭕️|
+|[1309](https://leetcode.cn/problems/decrypt-string-from-alphabet-to-integer-mapping/)|32 ms|15 MB|🔶|
 |[1323](https://leetcode.cn/problems/maximum-69-number/)|28 ms|15 MB||
 |[1342](https://leetcode.cn/problems/number-of-steps-to-reduce-a-number-to-zero/)|24 ms|14.9 MB|🔶🔶|
 |[1346](https://leetcode.cn/problems/check-if-n-and-its-double-exist/)|60 ms|15 MB||
