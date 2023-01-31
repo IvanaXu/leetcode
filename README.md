@@ -133,6 +133,7 @@
 |[1768](https://leetcode.cn/problems/merge-strings-alternately/)|20 ms|15.1 MB|🔶🔶|
 |1801-1900 ⭕️|
 |[1816](https://leetcode.cn/problems/truncate-sentence/)|36 ms|15.1 MB||
+|[1832](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)|40 ms|14.8 MB||
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
 |1901-2000 ⭕️|
 |[1909](https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/)|272 ms|14.9 MB||
