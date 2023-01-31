@@ -96,6 +96,7 @@
 |1401-1500 ⭕️|
 |[1422](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)|36 ms|14.9 MB||
 |[1431](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/)|24 ms|14.9 MB|🔶🔶|
+|[1447](https://leetcode.cn/problems/simplified-fractions/)|836 ms|15.8 MB||
 |[1464](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)|32 ms|15.1 MB|🔶|
 |[1470](https://leetcode.cn/problems/shuffle-the-array/)|24 ms|15.1 MB|🔶🔶|
 |[1480](https://leetcode.cn/problems/running-sum-of-1d-array/)|36 ms|15.1 MB||
