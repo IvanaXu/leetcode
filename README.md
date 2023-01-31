@@ -63,6 +63,7 @@
 |[0415](https://leetcode.cn/problems/add-strings/)|36 ms|15 MB|🔶|
 |[0434](https://leetcode.cn/problems/number-of-segments-in-a-string/)|28 ms|14.9 MB||
 |[0448](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|64 ms|23.2 MB||
+|[0459](https://leetcode.cn/problems/repeated-substring-pattern/)|140 ms|15 MB||
 |[0500](https://leetcode.cn/problems/keyboard-row/)|36 ms|15.1 MB||
 |0501-0600 ⭕️|
 |[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
