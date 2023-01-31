@@ -141,6 +141,7 @@
 |[1941](https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/)|36 ms|15.1 MB||
 |[1952](https://leetcode.cn/problems/three-divisors/)|32 ms|15 MB|🔶|
 |[1961](https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/)|28 ms|15 MB|🔶|
+|[1967](https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/)|40 ms|15.1 MB||
 |[1979](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/)|40 ms|15.1 MB||
 |[1984](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|164 ms|15.1 MB||
 |[1985](https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/)|80 ms|21.3 MB||
