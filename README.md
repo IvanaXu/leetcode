@@ -34,6 +34,7 @@
 |[0136](https://leetcode.cn/problems/single-number/)|40 ms|16.9 MB|🔶|
 |[0137](https://leetcode.cn/problems/single-number-ii/)|32 ms|17 MB|🔶|
 |[0169](https://leetcode.cn/problems/majority-element/)|44 ms|16.5 MB||
+|[0171](https://leetcode.cn/problems/excel-sheet-column-number/)|32 ms|14.8 MB|🔶|
 |[0190](https://leetcode.cn/problems/reverse-bits/)|32 ms|14.8 MB|🔶|
 |[0191](https://leetcode.cn/problems/number-of-1-bits/)|28 ms|14.8 MB||
 |[0195](https://leetcode.cn/problems/tenth-line/)|0 ms|3.6 MB|🔶🔶|
