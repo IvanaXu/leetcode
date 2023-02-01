@@ -148,6 +148,7 @@
 |[1672](https://leetcode.cn/problems/richest-customer-wealth/)|40 ms|15 MB||
 |[1678](https://leetcode.cn/problems/goal-parser-interpretation/)|28 ms|14.9 MB|🔶|
 |[1684](https://leetcode.cn/problems/count-the-number-of-consistent-strings/)|112 ms|16.6 MB||
+|[1688](https://leetcode.cn/problems/count-of-matches-in-tournament/)|28 ms|14.9 MB|🔶|
 |[1689](https://leetcode.cn/problems/partitioning-into-minimum-number-of-deci-binary-numbers/)|44 ms|15.3 MB|🔶|
 |1701-1800 ⭕️|
 |[1704](https://leetcode.cn/problems/determine-if-string-halves-are-alike/)|28 ms|15.1 MB|🔶🔶|
