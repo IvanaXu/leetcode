@@ -208,6 +208,7 @@
 |[2206](https://leetcode.cn/problems/divide-array-into-equal-pairs/)|36 ms|15.2 MB|🔶|
 |[2235](https://leetcode.cn/problems/add-two-integers/)|32 ms|14.9 MB||
 |[2239](https://leetcode.cn/problems/find-closest-number-to-zero/)|60 ms|15.2 MB||
+|[2243](https://leetcode.cn/problems/calculate-digit-sum-of-a-string/)|36 ms|15.1 MB||
 |[2248](https://leetcode.cn/problems/intersection-of-multiple-arrays/)|32 ms|15.3 MB|🔶|
 |[2255](https://leetcode.cn/problems/count-prefixes-of-a-given-string/)|28 ms|15.2 MB|🔶|
 |[2264](https://leetcode.cn/problems/largest-3-same-digit-number-in-string/)|32 ms|15 MB|🔶|
