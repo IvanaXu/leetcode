@@ -179,6 +179,7 @@
 |[1920](https://leetcode.cn/problems/build-array-from-permutation/)|36 ms|15.1 MB|🔶|
 |[1929](https://leetcode.cn/problems/concatenation-of-array/)|36 ms|15.1 MB||
 |[1941](https://leetcode.cn/problems/check-if-all-characters-have-equal-number-of-occurrences/)|36 ms|15.1 MB||
+|[1945](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/)|36 ms|14.9 MB|🔶|
 |[1952](https://leetcode.cn/problems/three-divisors/)|32 ms|15 MB|🔶|
 |[1961](https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/)|28 ms|15 MB|🔶|
 |[1967](https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/)|40 ms|15.1 MB||
