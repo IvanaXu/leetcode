@@ -172,6 +172,7 @@
 |[1869](https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/)|40 ms|14.9 MB||
 |[1876](https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/)|32 ms|14.9 MB|🔶|
 |[1880](https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/)|32 ms|15 MB|🔶|
+|[1893](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/)|28 ms|14.9 MB|🔶|
 |1901-2000 ⭕️|
 |[1909](https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/)|272 ms|14.9 MB||
 |[1929](https://leetcode.cn/problems/concatenation-of-array/)|36 ms|15.1 MB||
