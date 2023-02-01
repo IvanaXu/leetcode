@@ -20,6 +20,7 @@
 |[0014](https://leetcode.cn/problems/longest-common-prefix/)|56 ms|13.7 MB||
 |[0017](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)|56 ms|13.3 MB||
 |[0027](https://leetcode.cn/problems/remove-element/)|32 ms|15 MB||
+|[0028](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)|28 ms|15 MB|🔶|
 |[0035](https://leetcode.cn/problems/search-insert-position/)|40 ms|15.6 MB||
 |[0043](https://leetcode.cn/problems/multiply-strings/)|36 ms|15.1 MB|🔶|
 |[0048](https://leetcode.cn/problems/rotate-image/)|56 ms|13.4 MB||
@@ -218,7 +219,7 @@
 |[2544](https://leetcode.cn/problems/alternating-digit-sum/)|36 ms|14.9 MB||
 |[2549](https://leetcode.cn/problems/count-distinct-numbers-on-board/)|340 ms|14.9 MB||
 |2601-2700 ⭕️|
+|9999.Other ⭕|
 |[]()||||
-
 
 
