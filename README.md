@@ -99,6 +99,7 @@
 |[1137](https://leetcode.cn/problems/n-th-tribonacci-number/)|32 ms|14.9 MB||
 |[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|28 ms|15 MB||
+|[1189](https://leetcode.cn/problems/maximum-number-of-balloons/)|24 ms|15 MB|🔶🔶|
 |1201-1300 ⭕️|
 |[1281](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|32 ms|15 MB||
 |[1295](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/)|40 ms|15.1 MB||
