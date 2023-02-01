@@ -169,6 +169,7 @@
 |[1844](https://leetcode.cn/problems/replace-all-digits-with-characters/)|36 ms|14.9 MB||
 |[1854](https://leetcode.cn/problems/maximum-population-year/)|36 ms|14.9 MB||
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
+|[1876](https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/)|32 ms|14.9 MB|🔶|
 |[1880](https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/)|32 ms|15 MB|🔶|
 |1901-2000 ⭕️|
 |[1909](https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/)|272 ms|14.9 MB||
