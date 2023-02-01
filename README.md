@@ -139,6 +139,7 @@
 |[1550](https://leetcode.cn/problems/three-consecutive-odds/)|36 ms|15.1 MB||
 |[1556](https://leetcode.cn/problems/thousand-separator/)|24 ms|14.9 MB|🔶🔶|
 |1601-1700 ⭕️|
+|[1608](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)|32 ms|14.9 MB|🔶|
 |[1629](https://leetcode.cn/problems/slowest-key/)|32 ms|15.1 MB|🔶|
 |[1636](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)|36 ms|15.1 MB||
 |[1662](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)|40 ms|14.9 MB||
