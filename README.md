@@ -7,8 +7,8 @@
 * Wait For Update To Be Better!
 
 
-|No|Time|Memory||
-| - | - | - | - |
+|No|Time|Memory|Stars|CodeL|
+| - | - | - | - | - |
 |0001-0100 ⭕️|
 |[0001](https://leetcode.cn/problems/two-sum/)|1656 ms|14.3 MB||
 |[0003](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)|80 ms|11.7 MB||
@@ -70,8 +70,8 @@
 |[0459](https://leetcode.cn/problems/repeated-substring-pattern/)|140 ms|15 MB||
 |[0482](https://leetcode.cn/problems/license-key-formatting/)|52 ms|15.3 MB||
 |[0485](https://leetcode.cn/problems/max-consecutive-ones/)|48 ms|15.5 MB|🔶|
-|[0492](https://leetcode.cn/problems/construct-the-rectangle/)|Python|2596 ms|325.9 MB||
-|[0492](https://leetcode.cn/problems/construct-the-rectangle/)|Python3|1092 ms|15.1 MB||
+|[0492](https://leetcode.cn/problems/construct-the-rectangle/)|2596 ms|325.9 MB||Python|
+|[0492](https://leetcode.cn/problems/construct-the-rectangle/)|1092 ms|15.1 MB||Python3|
 |[0500](https://leetcode.cn/problems/keyboard-row/)|36 ms|15.1 MB||
 |0501-0600 ⭕️|
 |[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
