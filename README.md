@@ -69,6 +69,7 @@
 |[0448](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|64 ms|23.2 MB||
 |[0459](https://leetcode.cn/problems/repeated-substring-pattern/)|140 ms|15 MB||
 |[0482](https://leetcode.cn/problems/license-key-formatting/)|52 ms|15.3 MB||
+|[0485](https://leetcode.cn/problems/max-consecutive-ones/)|48 ms|15.5 MB|🔶|
 |[0500](https://leetcode.cn/problems/keyboard-row/)|36 ms|15.1 MB||
 |0501-0600 ⭕️|
 |[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
