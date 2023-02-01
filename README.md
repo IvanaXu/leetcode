@@ -164,7 +164,7 @@
 |1801-1900 ⭕️|
 |[1812](https://leetcode.cn/problems/determine-color-of-a-chessboard-square/)|24 ms|15 MB|🔶🔶|
 |[1816](https://leetcode.cn/problems/truncate-sentence/)|36 ms|15.1 MB||
-|[1822](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)|36 ms|15.2 MBs||
+|[1822](https://leetcode.cn/problems/sign-of-the-product-of-an-array/)|24 ms|15.2 MBs|🔶🔶|
 |[1832](https://leetcode.cn/problems/check-if-the-sentence-is-pangram/)|40 ms|14.8 MB||
 |[1844](https://leetcode.cn/problems/replace-all-digits-with-characters/)|36 ms|14.9 MB||
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
