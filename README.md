@@ -142,6 +142,7 @@
 |[1608](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)|32 ms|14.9 MB|🔶|
 |[1629](https://leetcode.cn/problems/slowest-key/)|32 ms|15.1 MB|🔶|
 |[1636](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)|36 ms|15.1 MB||
+|[1652](https://leetcode.cn/problems/defuse-the-bomb/)|36 ms|14.9 MB||
 |[1662](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)|40 ms|14.9 MB||
 |[1668](https://leetcode.cn/problems/maximum-repeating-substring/)|32 ms|15 MB|🔶|
 |[1672](https://leetcode.cn/problems/richest-customer-wealth/)|40 ms|15 MB||
