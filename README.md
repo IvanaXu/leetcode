@@ -142,6 +142,7 @@
 |[1528](https://leetcode.cn/problems/shuffle-string/)|44 ms|14.8 MB|🔶🔶|
 |[1550](https://leetcode.cn/problems/three-consecutive-odds/)|36 ms|15.1 MB||
 |[1556](https://leetcode.cn/problems/thousand-separator/)|24 ms|14.9 MB|🔶🔶|
+|[1572](https://leetcode.cn/problems/matrix-diagonal-sum/)|40 ms|15.1 MB|🔶|
 |1601-1700 ⭕️|
 |[1608](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)|32 ms|14.9 MB|🔶|
 |[1629](https://leetcode.cn/problems/slowest-key/)|32 ms|15.1 MB|🔶|
