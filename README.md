@@ -193,6 +193,7 @@
 |[2000](https://leetcode.cn/problems/reverse-prefix-of-word/)|28 ms|15 MB|🔶|
 |2001-2100 ⭕️|
 |[2011](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)|36 ms|15 MB||
+|[2016](https://leetcode.cn/problems/maximum-difference-between-increasing-elements/)|32 ms|15.1 MB|🔶|
 |[2032](https://leetcode.cn/problems/two-out-of-three/)|36 ms|15.1 MB|🔶🔶|
 |[2053](https://leetcode.cn/problems/kth-distinct-string-in-an-array/)|96 ms|15.3 MB||
 |[2057](https://leetcode.cn/problems/smallest-index-with-equal-value/)|36 ms|15 MB||
