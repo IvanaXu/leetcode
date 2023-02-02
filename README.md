@@ -201,6 +201,7 @@
 |2101-2200 ⭕️|
 |[2108](https://leetcode.cn/problems/find-first-palindromic-string-in-the-array/)|28 ms|15.1 MB|🔶🔶|
 |[2114](https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/)|12 ms|15 MB|🔶🔶|
+|[2119](https://leetcode.cn/problems/a-number-after-a-double-reversal/)|28 ms|14.9 MB|🔶🔶|
 |[2124](https://leetcode.cn/problems/check-if-all-as-appears-before-all-bs/)|24 ms|15 MB|🔶🔶|
 |[2129](https://leetcode.cn/problems/capitalize-the-title/)|24 ms|14.9 MB|🔶🔶|
 |[2138](https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/)|28 ms|15 MB|🔶🔶|
