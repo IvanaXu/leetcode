@@ -103,6 +103,7 @@
 |0901-1000 ⭕️|
 |[0905](https://leetcode.cn/problems/sort-array-by-parity/)|36 ms|15.6 MB|🔶|
 |[0917](https://leetcode.cn/problems/reverse-only-letters/)|32 ms|15.1 MB||
+|[0929](https://leetcode.cn/problems/unique-email-addresses/)|44 ms|15.1 MB||
 |[0976](https://leetcode.cn/problems/largest-perimeter-triangle/)|52 ms|16 MB||
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
 |1001-1100 ⭕️|
