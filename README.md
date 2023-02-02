@@ -69,6 +69,7 @@
 |[0434](https://leetcode.cn/problems/number-of-segments-in-a-string/)|28 ms|14.9 MB||
 |[0448](https://leetcode.cn/problems/find-all-numbers-disappeared-in-an-array/)|64 ms|23.2 MB||
 |[0459](https://leetcode.cn/problems/repeated-substring-pattern/)|140 ms|15 MB||
+|[0461](https://leetcode.cn/problems/hamming-distance/)|32 ms|14.9 MB|🔶|
 |[0482](https://leetcode.cn/problems/license-key-formatting/)|52 ms|15.3 MB||
 |[0485](https://leetcode.cn/problems/max-consecutive-ones/)|48 ms|15.5 MB|🔶|
 |[0492](https://leetcode.cn/problems/construct-the-rectangle/)|1092 ms|15.1 MB||
