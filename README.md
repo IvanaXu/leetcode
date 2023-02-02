@@ -216,6 +216,7 @@
 |2201-2300 ⭕️|
 |[2206](https://leetcode.cn/problems/divide-array-into-equal-pairs/)|36 ms|15.2 MB|🔶|
 |[2235](https://leetcode.cn/problems/add-two-integers/)|32 ms|14.9 MB||
+|[2236](https://leetcode.cn/problems/root-equals-sum-of-children/)|8 ms|12.8 MB|🔶🔶|
 |[2239](https://leetcode.cn/problems/find-closest-number-to-zero/)|60 ms|15.2 MB||
 |[2243](https://leetcode.cn/problems/calculate-digit-sum-of-a-string/)|36 ms|15.1 MB||
 |[2248](https://leetcode.cn/problems/intersection-of-multiple-arrays/)|32 ms|15.3 MB|🔶|
