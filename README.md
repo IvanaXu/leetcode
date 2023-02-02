@@ -126,6 +126,7 @@
 |[1399](https://leetcode.cn/problems/count-largest-group/)|124 ms|15 MB||
 |1401-1500 ⭕️|
 |[1408](https://leetcode.cn/problems/string-matching-in-an-array/)|40 ms|15.1 MB||
+|[1413](https://leetcode.cn/problems/minimum-value-to-get-positive-step-by-step-sum/)|44 ms|14.8 MB||
 |[1422](https://leetcode.cn/problems/maximum-score-after-splitting-a-string/)|36 ms|14.9 MB||
 |[1431](https://leetcode.cn/problems/kids-with-the-greatest-number-of-candies/)|24 ms|14.9 MB|🔶🔶|
 |[1436](https://leetcode.cn/problems/destination-city/)|40 ms|15.1 MB||
