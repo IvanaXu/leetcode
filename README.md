@@ -76,6 +76,7 @@
 |0501-0600 ⭕️|
 |[0504](https://leetcode.cn/problems/base-7/)|32 ms|15 MB||
 |[0506](https://leetcode.cn/problems/relative-ranks/)|36 ms|16.2 MB|🔶|
+|[0507](https://leetcode.cn/problems/perfect-number/)|28 ms|14.9 MB|🔶🔶|
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
 |[0520](https://leetcode.cn/problems/detect-capital/)|32 ms|15 MB|🔶|
 |[0537](https://leetcode.cn/problems/complex-number-multiplication/)|32 ms|15 MB|🔶|
