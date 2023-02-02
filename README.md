@@ -112,6 +112,7 @@
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|28 ms|15 MB||
 |[1189](https://leetcode.cn/problems/maximum-number-of-balloons/)|24 ms|15 MB|🔶🔶|
 |1201-1300 ⭕️|
+|[1207](https://leetcode.cn/problems/unique-number-of-occurrences/)|36 ms|14.9 MB||
 |[1281](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|32 ms|15 MB||
 |[1295](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/)|40 ms|15.1 MB||
 |1301-1400 ⭕️|
