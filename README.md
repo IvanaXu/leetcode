@@ -202,6 +202,7 @@
 |[2108](https://leetcode.cn/problems/find-first-palindromic-string-in-the-array/)|28 ms|15.1 MB|🔶🔶|
 |[2114](https://leetcode.cn/problems/maximum-number-of-words-found-in-sentences/)|12 ms|15 MB|🔶🔶|
 |[2124](https://leetcode.cn/problems/check-if-all-as-appears-before-all-bs/)|24 ms|15 MB|🔶🔶|
+|[2129](https://leetcode.cn/problems/capitalize-the-title/)|24 ms|14.9 MB|🔶🔶|
 |[2138](https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/)|28 ms|15 MB|🔶🔶|
 |[2154](https://leetcode.cn/problems/keep-multiplying-found-values-by-two/)|36 ms|15.2 MB||
 |[2180](https://leetcode.cn/problems/count-integers-with-even-digit-sum/)|52 ms|14.9 MB||
