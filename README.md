@@ -195,6 +195,7 @@
 |[2011](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)|36 ms|15 MB||
 |[2016](https://leetcode.cn/problems/maximum-difference-between-increasing-elements/)|32 ms|15.1 MB|🔶|
 |[2032](https://leetcode.cn/problems/two-out-of-three/)|36 ms|15.1 MB|🔶🔶|
+|[2042](https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/)|32 ms|14.9 MB|🔶|
 |[2053](https://leetcode.cn/problems/kth-distinct-string-in-an-array/)|96 ms|15.3 MB||
 |[2057](https://leetcode.cn/problems/smallest-index-with-equal-value/)|36 ms|15 MB||
 |[2085](https://leetcode.cn/problems/count-common-words-with-one-occurrence/)|80 ms|15.3 MB||
