@@ -157,6 +157,7 @@
 |[1704](https://leetcode.cn/problems/determine-if-string-halves-are-alike/)|28 ms|15.1 MB|🔶🔶|
 |[1710](https://leetcode.cn/problems/maximum-units-on-a-truck/)|48 ms|15.3 MB||
 |[1716](https://leetcode.cn/problems/calculate-money-in-leetcode-bank/)|28 ms|15 MB|🔶|
+|[1720](https://leetcode.cn/problems/decode-xored-array/)|44 ms|16.4 MB|🔶|
 |[1732](https://leetcode.cn/problems/find-the-highest-altitude/)|28 ms|14.9 MB|🔶|
 |[1742](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/)|680 ms|14.9 MB||
 |[1748](https://leetcode.cn/problems/sum-of-unique-elements/)|28 ms|15 MB|🔶🔶|
