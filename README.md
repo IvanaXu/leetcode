@@ -232,7 +232,7 @@
 |[2357](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)|44 ms|14.9 MB||
 |[2390](https://leetcode.cn/problems/removing-stars-from-a-string/)|168 ms|16.2 MB|🔶🔶|
 |2401-2500 ⭕️|
-|[2404](https://leetcode.cn/problems/most-frequent-even-element/)|56 ms|15.3 MB|🔶|
+|[2404](https://leetcode.cn/problems/most-frequent-even-element/)|56 ms|15.3 MB|🔶🔶|
 |[2413](https://leetcode.cn/problems/smallest-even-multiple/)|24 ms|14.8 MB|🔶|
 |[2418](https://leetcode.cn/problems/sort-the-people/)|36 ms|15.4 MB|🔶|
 |[2423](https://leetcode.cn/problems/remove-letter-to-equalize-frequency/)|32 ms|15 MB|🔶|
