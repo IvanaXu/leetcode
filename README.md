@@ -198,6 +198,7 @@
 |[2042](https://leetcode.cn/problems/check-if-numbers-are-ascending-in-a-sentence/)|32 ms|14.9 MB|🔶|
 |[2053](https://leetcode.cn/problems/kth-distinct-string-in-an-array/)|96 ms|15.3 MB||
 |[2057](https://leetcode.cn/problems/smallest-index-with-equal-value/)|36 ms|15 MB||
+|[2068](https://leetcode.cn/problems/check-whether-two-strings-are-almost-equivalent/)|36 ms|15 MB||
 |[2085](https://leetcode.cn/problems/count-common-words-with-one-occurrence/)|80 ms|15.3 MB||
 |[2089](https://leetcode.cn/problems/find-target-indices-after-sorting-array/)|28 ms|14.8 MB|🔶🔶|
 |[2094](https://leetcode.cn/problems/finding-3-digit-even-numbers/)|5712 ms|15.1 MB||
