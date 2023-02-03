@@ -262,6 +262,7 @@
 |2501-2600 ⭕️|
 |[2506](https://leetcode.cn/problems/count-pairs-of-similar-strings/)|328 ms|15.4 MB||
 |[2520](https://leetcode.cn/problems/count-the-digits-that-divide-a-number/)|36 ms|14.9 MB||
+|[2527](https://leetcode.cn/problems/find-xor-beauty-of-array/)|48 ms|25.6 MB|🔶|
 |[2529](https://leetcode.cn/problems/maximum-count-of-positive-integer-and-negative-integer/)|36 ms|15.2 MB|🔶|
 |[2535](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/)|60 ms|15.4 MB||
 |[2540](https://leetcode.cn/problems/minimum-common-value/)|60 ms|39.1 MB||
