@@ -270,5 +270,6 @@
 |2601-2700 ⭕️|
 |9999.Other ⭕|
 |[LCP01](https://leetcode.cn/problems/guess-numbers/)|28 ms|14.8 MB|🔶🔶|
+|[LCP06](https://leetcode.cn/problems/na-ying-bi/)|28 ms|14.8 MB|🔶|
 
 
