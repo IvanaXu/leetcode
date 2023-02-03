@@ -273,7 +273,8 @@
 |[LCP06](https://leetcode.cn/problems/na-ying-bi/)|28 ms|14.8 MB|🔶|
 |[LCP17](https://leetcode.cn/problems/nGK0Fy/)|36 ms|14.9 MB||
 |[LCP61](https://leetcode.cn/problems/6CE719/)|36 ms|15 MB|🔶|
-|[LCS02](https://leetcode.cn/problems/WqXACV/)|72 ms|23.9 MB||
+|[LCP66](https://leetcode.cn/problems/600YaG/)|52 ms|15.2 MB||
+|[LCS02](https://leetcode.cn/problems/WqXACV/)|48 ms|19.1 MB|🔶🔶|
 
 
 
