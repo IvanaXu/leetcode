@@ -266,7 +266,7 @@
 |[2535](https://leetcode.cn/problems/difference-between-element-sum-and-digit-sum-of-an-array/)|60 ms|15.4 MB||
 |[2540](https://leetcode.cn/problems/minimum-common-value/)|60 ms|39.1 MB||
 |[2544](https://leetcode.cn/problems/alternating-digit-sum/)|36 ms|14.9 MB||
-|[2545](https://leetcode.cn/problems/sort-the-students-by-their-kth-score/)|52 ms|19.5 MB||
+|[2545](https://leetcode.cn/problems/sort-the-students-by-their-kth-score/)|52 ms|19.5 MB|🔶|
 |[2546](https://leetcode.cn/problems/apply-bitwise-operations-to-make-strings-equal/)|28 ms|15.6 MB|🔶🔶|
 |[2549](https://leetcode.cn/problems/count-distinct-numbers-on-board/)|340 ms|14.9 MB||
 |2601-2700 ⭕️|
