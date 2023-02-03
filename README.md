@@ -7,8 +7,8 @@
 * Wait For Update To Be Better!
 
 
-|No|Time|Memory|Stars|CodeL|
-| - | - | - | - | - |
+|No|Time|Memory|Stars|
+| - | - | - | - |
 |0001-0100 ⭕️|
 |[0001](https://leetcode.cn/problems/two-sum/)|1656 ms|14.3 MB||
 |[0003](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)|80 ms|11.7 MB||
@@ -186,7 +186,7 @@
 |[1869](https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/)|40 ms|14.9 MB||
 |[1876](https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/)|32 ms|14.9 MB|🔶|
 |[1880](https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/)|32 ms|15 MB|🔶|
-|[1893](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/)|28 ms|14.9 MB|c
+|[1893](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/)|28 ms|14.9 MB|🔶🔶|
 |1901-2000 ⭕️|
 |[1909](https://leetcode.cn/problems/remove-one-element-to-make-the-array-strictly-increasing/)|272 ms|14.9 MB||
 |[1913](https://leetcode.cn/problems/maximum-product-difference-between-two-pairs/)|164 ms|16.2 MB||
