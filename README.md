@@ -269,6 +269,6 @@
 |[2549](https://leetcode.cn/problems/count-distinct-numbers-on-board/)|340 ms|14.9 MB||
 |2601-2700 ⭕️|
 |9999.Other ⭕|
-|[]()||||
+|[LCP01](https://leetcode.cn/problems/guess-numbers/)|28 ms|14.8 MB|🔶🔶|
 
 
