@@ -228,6 +228,7 @@
 |2201-2300 ⭕️|
 |[2206](https://leetcode.cn/problems/divide-array-into-equal-pairs/)|36 ms|15.2 MB|🔶|
 |[2215](https://leetcode.cn/problems/find-the-difference-of-two-arrays/)|32 ms|15.3 MB|🔶🔶|
+|[2224](https://leetcode.cn/problems/minimum-number-of-operations-to-convert-time/)|20 ms|14.9 MB|🔶🔶|
 |[2235](https://leetcode.cn/problems/add-two-integers/)|32 ms|14.9 MB||
 |[2236](https://leetcode.cn/problems/root-equals-sum-of-children/)|8 ms|12.8 MB|🔶🔶|
 |[2239](https://leetcode.cn/problems/find-closest-number-to-zero/)|60 ms|15.2 MB||
