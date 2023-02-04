@@ -280,6 +280,7 @@
 |9999.Other ⭕|
 |[LCP01](https://leetcode.cn/problems/guess-numbers/)|28 ms|14.8 MB|🔶🔶|
 |[LCP06](https://leetcode.cn/problems/na-ying-bi/)|28 ms|14.8 MB|🔶|
+|[LCP11](https://leetcode.cn/problems/qi-wang-ge-shu-tong-ji/)|60 ms|30.9 MB|🔶|
 |[LCP17](https://leetcode.cn/problems/nGK0Fy/)|36 ms|14.9 MB||
 |[LCP55](https://leetcode.cn/problems/PTXy4P/)|48 ms|15.2 MB|🔶|
 |[LCP61](https://leetcode.cn/problems/6CE719/)|36 ms|15 MB|🔶|
