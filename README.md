@@ -257,6 +257,7 @@
 |[2465](https://leetcode.cn/problems/number-of-distinct-averages/)|20 ms|15 MB|🔶🔶|
 |[2469](https://leetcode.cn/problems/convert-the-temperature/)|28 ms|14.9 MB||
 |[2485](https://leetcode.cn/problems/find-the-pivot-integer/)|36 ms|14.9 MB|🔶|
+|[2490](https://leetcode.cn/problems/circular-sentence/)|32 ms|15.1 MB|🔶|
 |[2496](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/)|28 ms|15 MB|🔶|
 |[2500](https://leetcode.cn/problems/delete-greatest-value-in-each-row/)|32 ms|15.1 MB|🔶🔶|
 |2501-2600 ⭕️|
