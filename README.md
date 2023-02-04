@@ -244,6 +244,7 @@
 |[2357](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)|44 ms|14.9 MB||
 |[2373](https://leetcode.cn/problems/largest-local-values-in-a-matrix/)|220 ms|15.3 MB||
 |[2390](https://leetcode.cn/problems/removing-stars-from-a-string/)|168 ms|16.2 MB|🔶🔶|
+|[2399](https://leetcode.cn/problems/check-distances-between-same-letters/)|32 ms|15 MB|🔶|
 |2401-2500 ⭕️|
 |[2404](https://leetcode.cn/problems/most-frequent-even-element/)|56 ms|15.3 MB|🔶🔶|
 |[2413](https://leetcode.cn/problems/smallest-even-multiple/)|24 ms|14.8 MB|🔶|
