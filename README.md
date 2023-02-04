@@ -28,7 +28,7 @@
 |[0048](https://leetcode.cn/problems/rotate-image/)|56 ms|13.4 MB||
 |[0050](https://leetcode.cn/problems/powx-n/)|48 ms|13.8 MB||
 |[0056](https://leetcode.cn/problems/merge-intervals/)|44 ms|17.9 MB|🔶|
-|[0057](https://leetcode.cn/problems/insert-interval/)|32 ms|16.7 MB|🔶|
+|[0057](https://leetcode.cn/problems/insert-interval/)|32 ms|16.7 MB|🔶🔶|
 |[0058](https://leetcode.cn/problems/length-of-last-word/)|68 ms|13.6 MB||
 |[0066](https://leetcode.cn/problems/plus-one/)|40 ms|14.9 MB||
 |[0067](https://leetcode.cn/problems/add-binary/)|28 ms|14.9 MB||
@@ -122,6 +122,7 @@
 |1201-1300 ⭕️|
 |[1207](https://leetcode.cn/problems/unique-number-of-occurrences/)|36 ms|14.9 MB||
 |[1281](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|32 ms|15 MB||
+|[1288](https://leetcode.cn/problems/remove-covered-intervals/)|40 ms|15.4 MB||
 |[1295](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/)|40 ms|15.1 MB||
 |1301-1400 ⭕️|
 |[1309](https://leetcode.cn/problems/decrypt-string-from-alphabet-to-integer-mapping/)|32 ms|15 MB|🔶|
