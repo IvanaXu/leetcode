@@ -15,6 +15,7 @@
 |[0004](https://leetcode.cn/problems/median-of-two-sorted-arrays/)|156 ms|13.6 MB||
 |[0006](https://leetcode.cn/problems/zigzag-conversion/)|3 ms|37.4 MB||
 |[0007](https://leetcode.cn/problems/reverse-integer/)|48 ms|13.5 MB||
+|[0008](https://leetcode.cn/problems/string-to-integer-atoi/)|32 ms|15.2 MB|🔶|
 |[0009](https://leetcode.cn/problems/palindrome-number/)|84 ms|13.5 MB||
 |[0011](https://leetcode.cn/problems/container-with-most-water/)|116 ms|14.9 MB||
 |[0014](https://leetcode.cn/problems/longest-common-prefix/)|56 ms|13.7 MB||
