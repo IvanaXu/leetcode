@@ -10,7 +10,7 @@
 |No|Time|Memory|Stars|
 | - | - | - | - |
 |0001-0100 ⭕️|
-|[0001](https://leetcode.cn/problems/two-sum/)|1656 ms|14.3 MB||
+|[0001](https://leetcode.cn/problems/two-sum/)|440 ms|14.3 MB||
 |[0003](https://leetcode.cn/problems/longest-substring-without-repeating-characters/)|80 ms|11.7 MB||
 |[0004](https://leetcode.cn/problems/median-of-two-sorted-arrays/)|156 ms|13.6 MB||
 |[0006](https://leetcode.cn/problems/zigzag-conversion/)|3 ms|37.4 MB||
