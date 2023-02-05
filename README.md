@@ -18,6 +18,7 @@
 |[0008](https://leetcode.cn/problems/string-to-integer-atoi/)|32 ms|15.2 MB|🔶|
 |[0009](https://leetcode.cn/problems/palindrome-number/)|84 ms|13.5 MB||
 |[0011](https://leetcode.cn/problems/container-with-most-water/)|116 ms|14.9 MB||
+|[0013](https://leetcode.cn/problems/roman-to-integer/)|48 ms|14.8 MB||
 |[0014](https://leetcode.cn/problems/longest-common-prefix/)|56 ms|13.7 MB||
 |[0017](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)|56 ms|13.3 MB||
 |[0027](https://leetcode.cn/problems/remove-element/)|32 ms|15 MB||
