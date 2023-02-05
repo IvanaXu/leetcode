@@ -64,6 +64,7 @@
 |[0342](https://leetcode.cn/problems/power-of-four/)|48 ms|14.9 MB||
 |[0344](https://leetcode.cn/problems/reverse-string/)|56 ms|19.6 MB||
 |[0349](https://leetcode.cn/problems/intersection-of-two-arrays/)|28 ms|15.1 MB||
+|[0367](https://leetcode.cn/problems/valid-perfect-square/)|32 ms|14.8 MB|🔶|
 |[0374](https://leetcode.cn/problems/guess-number-higher-or-lower/)|28 ms|14.8 MB||
 |[0387](https://leetcode.cn/problems/first-unique-character-in-a-string/)|128 ms|15 MB||
 |0401-0500 ⭕️|
