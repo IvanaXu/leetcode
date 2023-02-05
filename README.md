@@ -263,6 +263,7 @@
 |[2357](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)|44 ms|14.9 MB||
 |[2373](https://leetcode.cn/problems/largest-local-values-in-a-matrix/)|220 ms|15.3 MB||
 |[2390](https://leetcode.cn/problems/removing-stars-from-a-string/)|168 ms|16.2 MB|🔶🔶|
+|[2391](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/)|276 ms|32.8 MB||
 |[2396](https://leetcode.cn/problems/strictly-palindromic-number/)||||
 |[2399](https://leetcode.cn/problems/check-distances-between-same-letters/)|16 ms|15 MB|🔶🔶|
 |2401-2500 ⭕️|
