@@ -89,6 +89,7 @@
 |[0520](https://leetcode.cn/problems/detect-capital/)|32 ms|15 MB|🔶|
 |[0537](https://leetcode.cn/problems/complex-number-multiplication/)|32 ms|15 MB|🔶|
 |[0557](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)|32 ms|15.6 MB|🔶|
+|[0561](https://leetcode.cn/problems/array-partition/)|84 ms|16.8 MB||
 |[0599](https://leetcode.cn/problems/minimum-index-sum-of-two-lists/)|84 ms|15.3 MB||
 |0601-0700 ⭕️|
 |[0609](https://leetcode.cn/problems/find-duplicate-file-in-system/)|48 ms|21.4 MB|🔶🔶|
