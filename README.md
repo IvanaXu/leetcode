@@ -340,6 +340,7 @@
 |[LCP66](https://leetcode.cn/problems/600YaG/)|28 ms|12.9 MB|🔶🔶|
 |[LCS02](https://leetcode.cn/problems/WqXACV/)|48 ms|19.1 MB|🔶🔶|
 |[OfferII068](https://leetcode.cn/problems/N6YdxV/)|32 ms|15.5 MB||
+|[OfferII069](https://leetcode.cn/problems/B1IidL/)|36 ms|16.1 MB||
 |[OfferII072](https://leetcode.cn/problems/jJ0w9p/)|32 ms|12.8 MB||
 |[OfferII074](https://leetcode.cn/problems/SsGoHC/)|36 ms|16 MB|🔶|
 |[OfferII075](https://leetcode.cn/problems/0H97ZC/)|36 ms|15 MB||
