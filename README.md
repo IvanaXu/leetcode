@@ -314,6 +314,7 @@
 |[2558](https://leetcode.cn/problems/take-gifts-from-the-richest-pile/)|48 ms|13.2 MB|🔶🔶|
 |2601-2700 ⭕️|
 |9999.Other ⭕|
+|[ITV01.01](https://leetcode.cn/problems/is-unique-lcci/)|24 ms|15 MB|🔶🔶|
 |[ITV01.02](https://leetcode.cn/problems/check-permutation-lcci/)|28 ms|15 MB|🔶|
 |[ITV01.03](https://leetcode.cn/problems/string-to-url-lcci/)|40 ms|20.9 MB|🔶|
 |[ITV02.02](https://leetcode.cn/problems/kth-node-from-end-of-list-lcci/)|16 ms|13 MB|🔶🔶|
@@ -337,6 +338,7 @@
 |[LCP61](https://leetcode.cn/problems/6CE719/)|36 ms|15 MB|🔶|
 |[LCP66](https://leetcode.cn/problems/600YaG/)|28 ms|12.9 MB|🔶🔶|
 |[LCS02](https://leetcode.cn/problems/WqXACV/)|48 ms|19.1 MB|🔶🔶|
+|[OfferII075](https://leetcode.cn/problems/0H97ZC/)|36 ms|15 MB||
 
 
 
