@@ -281,6 +281,7 @@
 |[2446](https://leetcode.cn/problems/determine-if-two-events-have-conflict/)|36 ms|15 MB||
 |[2451](https://leetcode.cn/problems/odd-string-difference/)|44 ms|15.1 MB||
 |[2455](https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|32 ms|15.1 MB|🔶|
+|[2460](https://leetcode.cn/problems/apply-operations-to-an-array/)|32 ms|14.9 MB|🔶|
 |[2465](https://leetcode.cn/problems/number-of-distinct-averages/)|20 ms|15 MB|🔶🔶|
 |[2469](https://leetcode.cn/problems/convert-the-temperature/)|28 ms|14.9 MB||
 |[2475](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/)|1716 ms|30.9 MB||
