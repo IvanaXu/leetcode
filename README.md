@@ -254,6 +254,7 @@
 |[2248](https://leetcode.cn/problems/intersection-of-multiple-arrays/)|32 ms|15.3 MB|🔶|
 |[2255](https://leetcode.cn/problems/count-prefixes-of-a-given-string/)|28 ms|15.2 MB|🔶|
 |[2264](https://leetcode.cn/problems/largest-3-same-digit-number-in-string/)|32 ms|15 MB|🔶|
+|[2269](https://leetcode.cn/problems/find-the-k-beauty-of-a-number/)|28 ms|14.7 MB|🔶|
 |[2278](https://leetcode.cn/problems/percentage-of-letter-in-string/)|32 ms|15 MB||
 |[2283](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)|28 ms|14.9 MB|🔶|
 |2301-2400 ⭕️|
