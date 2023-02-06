@@ -241,6 +241,7 @@
 |[2160](https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|32 ms|14.9 MB|🔶|
 |[2180](https://leetcode.cn/problems/count-integers-with-even-digit-sum/)|52 ms|14.9 MB||
 |[2185](https://leetcode.cn/problems/counting-words-with-a-given-prefix/)|32 ms|15.1 MB|🔶|
+|[2194](https://leetcode.cn/problems/cells-in-a-range-on-an-excel-sheet/)|28 ms|14.9 MB|🔶|
 |2201-2300 ⭕️|
 |[2206](https://leetcode.cn/problems/divide-array-into-equal-pairs/)|36 ms|15.2 MB|🔶|
 |[2215](https://leetcode.cn/problems/find-the-difference-of-two-arrays/)|32 ms|15.3 MB|🔶🔶|
