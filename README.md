@@ -255,6 +255,7 @@
 |[2278](https://leetcode.cn/problems/percentage-of-letter-in-string/)|32 ms|15 MB||
 |[2283](https://leetcode.cn/problems/check-if-number-has-equal-digit-count-and-digit-value/)|28 ms|14.9 MB|🔶|
 |2301-2400 ⭕️|
+|[2303](https://leetcode.cn/problems/calculate-amount-paid-in-taxes/)|96 ms|15 MB||
 |[2309](https://leetcode.cn/problems/greatest-english-letter-in-upper-and-lower-case/)|32 ms|15 MB|🔶|
 |[2315](https://leetcode.cn/problems/count-asterisks/)|24 ms|14.9 MB|🔶🔶|
 |[2325](https://leetcode.cn/problems/decode-the-message/)|32 ms|15.1 MB|🔶|
