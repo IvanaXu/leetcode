@@ -64,6 +64,7 @@
 |[0338](https://leetcode.cn/problems/counting-bits/)|52 ms|15.9 MB||
 |[0342](https://leetcode.cn/problems/power-of-four/)|48 ms|14.9 MB||
 |[0344](https://leetcode.cn/problems/reverse-string/)|56 ms|19.6 MB||
+|[0346](https://leetcode-cn.com/problems/moving-average-from-data-stream/)|944 ms|18.3 MB||
 |[0349](https://leetcode.cn/problems/intersection-of-two-arrays/)|28 ms|15.1 MB||
 |[0367](https://leetcode.cn/problems/valid-perfect-square/)|32 ms|14.8 MB|🔶|
 |[0374](https://leetcode.cn/problems/guess-number-higher-or-lower/)|28 ms|14.8 MB||
