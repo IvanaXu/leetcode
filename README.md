@@ -52,6 +52,7 @@
 |[0217](https://leetcode.cn/problems/contains-duplicate/)|60 ms|27 MB||
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms|13.6 MB||
 |[0238](https://leetcode.cn/problems/product-of-array-except-self/)|72 ms|19.8 MB||
+|[0242](https://leetcode.cn/problems/valid-anagram/)|48 ms|16.1 MB||
 |[0258](https://leetcode.cn/problems/add-digits/)|32 ms|14.9 MB|🔶|
 |[0260](https://leetcode.cn/problems/single-number-iii/)|32 ms|17 MB|🔶|
 |[0263](https://leetcode.cn/problems/ugly-number/)|32 ms|14.9 MB|🔶|
