@@ -300,10 +300,10 @@
 |[2545](https://leetcode.cn/problems/sort-the-students-by-their-kth-score/)|52 ms|19.5 MB|🔶|
 |[2546](https://leetcode.cn/problems/apply-bitwise-operations-to-make-strings-equal/)|28 ms|15.6 MB|🔶🔶|
 |[2549](https://leetcode.cn/problems/count-distinct-numbers-on-board/)|340 ms|14.9 MB||
+|[2553](https://leetcode.cn/problems/separate-the-digits-in-an-array/)|36 ms|15.1 MB|🔶|
+|[2554](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/)|128 ms|16.6 MB|🔶|
+|[2558](https://leetcode.cn/problems/take-gifts-from-the-richest-pile/)|48 ms|13.2 MB|🔶🔶|
 |2601-2700 ⭕️|
-|[6303](https://leetcode.cn/problems/separate-the-digits-in-an-array/)|36 ms|15.1 MB|🔶|
-|[6304](https://leetcode.cn/problems/maximum-number-of-integers-to-choose-from-a-range-i/)|128 ms|16.6 MB|🔶|
-|[6348](https://leetcode.cn/problems/take-gifts-from-the-richest-pile/)|48 ms|13.2 MB|🔶🔶|
 |9999.Other ⭕|
 |[LCP01](https://leetcode.cn/problems/guess-numbers/)|28 ms|14.8 MB|🔶🔶|
 |[LCP06](https://leetcode.cn/problems/na-ying-bi/)|28 ms|14.8 MB|🔶|
