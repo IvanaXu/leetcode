@@ -313,6 +313,7 @@
 |[2558](https://leetcode.cn/problems/take-gifts-from-the-richest-pile/)|48 ms|13.2 MB|🔶🔶|
 |2601-2700 ⭕️|
 |9999.Other ⭕|
+|[ITV16.15](https://leetcode.cn/problems/master-mind-lcci/)|28 ms|15 MB|🔶|
 |[ITV17.01](https://leetcode.cn/problems/add-without-plus-lcci/)|36 ms|14.8 MB||
 |[ITV17.04](https://leetcode.cn/problems/missing-number-lcci/)|36 ms|15.9 MB||
 |[ITV67](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)|36 ms|15 MB|🔶|
