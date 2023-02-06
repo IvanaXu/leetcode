@@ -314,6 +314,7 @@
 |[2558](https://leetcode.cn/problems/take-gifts-from-the-richest-pile/)|48 ms|13.2 MB|🔶🔶|
 |2601-2700 ⭕️|
 |9999.Other ⭕|
+|[ITV10.01](https://leetcode.cn/problems/sorted-merge-lcci/)|36 ms|14.9 MB||
 |[ITV10.05](https://leetcode.cn/problems/sparse-array-search-lcci/)|36 ms|15.3 MB||
 |[ITV16.05](https://leetcode.cn/problems/factorial-zeros-lcci/)|32 ms|14.9 MB|🔶|
 |[ITV16.07](https://leetcode.cn/problems/maximum-lcci/)|40 ms|14.9 MB||
