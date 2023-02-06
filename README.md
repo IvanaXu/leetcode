@@ -283,6 +283,7 @@
 |[2455](https://leetcode.cn/problems/average-value-of-even-numbers-that-are-divisible-by-three/)|32 ms|15.1 MB|🔶|
 |[2465](https://leetcode.cn/problems/number-of-distinct-averages/)|20 ms|15 MB|🔶🔶|
 |[2469](https://leetcode.cn/problems/convert-the-temperature/)|28 ms|14.9 MB||
+|[2475](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/)|1716 ms|30.9 MB||
 |[2481](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/)|28 ms|14.8 MB|🔶|
 |[2485](https://leetcode.cn/problems/find-the-pivot-integer/)|36 ms|14.9 MB|🔶|
 |[2490](https://leetcode.cn/problems/circular-sentence/)|32 ms|15.1 MB|🔶|
