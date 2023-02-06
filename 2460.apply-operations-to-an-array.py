@@ -1,7 +1,6 @@
 class Solution:
     def applyOperations(self, nums: List[int]) -> List[int]:
-        _l = len(nums)
-        for n in range(_l-1):
+        for n in range(len(nums)-1):
             if nums[n] == nums[n+1]:
                 nums[n] = 2 * nums[n]
                 nums[n+1] = 0
