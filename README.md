@@ -264,6 +264,7 @@
 |[2347](https://leetcode.cn/problems/best-poker-hand/)|28 ms|15 MB|🔶🔶|
 |[2351](https://leetcode.cn/problems/first-letter-to-appear-twice/)|28 ms|14.9 MB|🔶|
 |[2357](https://leetcode.cn/problems/make-array-zero-by-subtracting-equal-amounts/)|44 ms|14.9 MB||
+|[2363](https://leetcode.cn/problems/merge-similar-items/)|20 ms|13.5 MB|🔶🔶|
 |[2367](https://leetcode.cn/problems/number-of-arithmetic-triplets/)|4284 ms|14.8 MB||
 |[2373](https://leetcode.cn/problems/largest-local-values-in-a-matrix/)|220 ms|15.3 MB||
 |[2376](https://leetcode.cn/problems/count-special-integers/)|N/A|N/A|TODO|
