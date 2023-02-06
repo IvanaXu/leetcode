@@ -268,6 +268,7 @@
 |[2376](https://leetcode.cn/problems/count-special-integers/)|N/A|N/A|TODO|
 |[2390](https://leetcode.cn/problems/removing-stars-from-a-string/)|168 ms|16.2 MB|🔶🔶|
 |[2391](https://leetcode.cn/problems/minimum-amount-of-time-to-collect-garbage/)|276 ms|32.8 MB||
+|[2395](https://leetcode.cn/problems/find-subarrays-with-equal-sum/)|40 ms|15.1 MB|🔶|
 |[2396](https://leetcode.cn/problems/strictly-palindromic-number/)||||
 |[2399](https://leetcode.cn/problems/check-distances-between-same-letters/)|16 ms|15 MB|🔶🔶|
 |2401-2500 ⭕️|
