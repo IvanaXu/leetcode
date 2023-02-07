@@ -346,6 +346,7 @@
 |[LCP61](https://leetcode.cn/problems/6CE719/)|36 ms|15 MB|🔶|
 |[LCP66](https://leetcode.cn/problems/600YaG/)|28 ms|12.9 MB|🔶🔶|
 |[LCS02](https://leetcode.cn/problems/WqXACV/)|48 ms|19.1 MB|🔶🔶|
+|[Offer003](https://leetcode.cn/problems/shu-zu-zhong-zhong-fu-de-shu-zi-lcof/)|48 ms|25.2 MB||
 |[Offer005](https://leetcode.cn/problems/ti-huan-kong-ge-lcof/)|36 ms|14.7 MB||
 |[Offer015](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|40 ms|14.7 MB||
 |[Offer039](https://leetcode.cn/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)|56 ms|16.3 MB||
