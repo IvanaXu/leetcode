@@ -343,6 +343,7 @@
 |[LCP61](https://leetcode.cn/problems/6CE719/)|36 ms|15 MB|🔶|
 |[LCP66](https://leetcode.cn/problems/600YaG/)|28 ms|12.9 MB|🔶🔶|
 |[LCS02](https://leetcode.cn/problems/WqXACV/)|48 ms|19.1 MB|🔶🔶|
+|[Offer058I](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/)|36 ms|15.4 MB||
 |[Offer064](https://leetcode.cn/problems/qiu-12n-lcof/)|36 ms|15.3 MB||
 |[OfferII002](https://leetcode.cn/problems/JFETK5/)|28 ms|15 MB|🔶🔶|
 |[OfferII003](https://leetcode.cn/problems/w3tCBm/)|52 ms|15.9 MB||
