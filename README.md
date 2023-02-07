@@ -342,7 +342,7 @@
 |[LCP61](https://leetcode.cn/problems/6CE719/)|36 ms|15 MB|🔶|
 |[LCP66](https://leetcode.cn/problems/600YaG/)|28 ms|12.9 MB|🔶🔶|
 |[LCS02](https://leetcode.cn/problems/WqXACV/)|48 ms|19.1 MB|🔶🔶|
-|[OfferII006](https://leetcode.cn/problems/kLl5u1/)|24 ms|15.6 MB||
+|[OfferII006](https://leetcode.cn/problems/kLl5u1/)|24 ms|15.6 MB|🔶🔶|
 |[OfferII032](https://leetcode.cn/problems/dKk3P7/)|48 ms|16.1 MB||
 |[OfferII041](https://leetcode.cn/problems/qIsx9U/)|936 ms|18.3 MB||
 |[OfferII068](https://leetcode.cn/problems/N6YdxV/)|32 ms|15.5 MB||
