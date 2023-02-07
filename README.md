@@ -1,5 +1,5 @@
 # leetcode
-[![Website](https://img.shields.io/website?label=Rank&up_color=orange&url=https%3A%2F%2Fshields.io&up_message=79,453)](https://github.com/IvanaXu/leetcode)
+[![Website](https://img.shields.io/website?label=Rank&up_color=orange&url=https%3A%2F%2Fshields.io&up_message=66,368)](https://github.com/IvanaXu/leetcode)
 [![Website](https://img.shields.io/github/languages/code-size/IvanaXu/leetcode)](https://github.com/IvanaXu/leetcode)
 [![Website](https://img.shields.io/github/directory-file-count/IvanaXu/leetcode)](https://github.com/IvanaXu/leetcode)
 > https://leetcode.cn/u/ivanaxu/
