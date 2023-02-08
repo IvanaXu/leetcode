@@ -3,7 +3,6 @@
 [![Website](https://img.shields.io/website?label=Easy&up_color=green&url=https%3A%2F%2Fshields.io&up_message=287)]()
 [![Website](https://img.shields.io/website?label=Middle&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=42)]()
 [![Website](https://img.shields.io/website?label=Hard&up_color=red&url=https%3A%2F%2Fshields.io&up_message=1)]()
-
 [![Website](https://img.shields.io/github/languages/code-size/IvanaXu/leetcode)]()
 [![Website](https://img.shields.io/github/directory-file-count/IvanaXu/leetcode)]()
 > https://leetcode.cn/u/ivanaxu/
