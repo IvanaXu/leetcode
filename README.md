@@ -180,6 +180,7 @@
 |[1496](https://leetcode.cn/problems/path-crossing/)|32 ms|15 MB|🔶|
 |1501-1600 ⭕️|
 |[1507](https://leetcode.cn/problems/reformat-date/)|28 ms|15.1 MB|🔶|
+|[1523](https://leetcode.cn/problems/count-odd-numbers-in-an-interval-range/)|28 ms|14.9 MB|🔶|
 |[1528](https://leetcode.cn/problems/shuffle-string/)|44 ms|14.8 MB|🔶🔶|
 |[1539](https://leetcode.cn/problems/kth-missing-positive-number/)|40 ms|14.9 MB||
 |[1550](https://leetcode.cn/problems/three-consecutive-odds/)|36 ms|15.1 MB||
