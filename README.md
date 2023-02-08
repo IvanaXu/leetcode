@@ -133,6 +133,7 @@
 |[0941](https://leetcode.cn/problems/valid-mountain-array/)|44 ms|15.8 MB|🔶|
 |[0976](https://leetcode.cn/problems/largest-perimeter-triangle/)|52 ms|16 MB||
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
+|[0989](https://leetcode.cn/problems/add-to-array-form-of-integer/)|76 ms|16.1 MB||
 |1001-1100 ⭕️|
 |[1009](https://leetcode.cn/problems/complement-of-base-10-integer/)|24 ms|14.8 MB|🔶🔶|
 |[1013](https://leetcode.cn/problems/partition-array-into-three-parts-with-equal-sum/)|52 ms|20.7 MB|🔶|
