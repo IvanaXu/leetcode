@@ -131,6 +131,7 @@
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
 |1001-1100 ⭕️|
 |[1009](https://leetcode.cn/problems/complement-of-base-10-integer/)|24 ms|14.8 MB|🔶🔶|
+|[1013](https://leetcode.cn/problems/partition-array-into-three-parts-with-equal-sum/)|52 ms|20.7 MB|🔶|
 |[1018](https://leetcode.cn/problems/binary-prefix-divisible-by-5/)|788 ms|16 MB||
 |[1051](https://leetcode.cn/problems/height-checker/)|32 ms|15 MB||
 |[1078](https://leetcode.cn/problems/occurrences-after-bigram/)|24 ms|15 MB|🔶🔶|
