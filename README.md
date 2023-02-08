@@ -335,6 +335,7 @@
 |[ITV03.02](https://leetcode.cn/problems/min-stack-lcci/)|540 ms|18.5 MB||
 |[ITV05.01](https://leetcode.cn/problems/insert-into-bits-lcci/)|32 ms|15 MB||
 |[ITV05.02](https://leetcode.cn/problems/bianry-number-to-string-lcci/)|28 ms|14.9 MB|🔶|
+|[ITV08.01](https://leetcode.cn/problems/three-steps-problem-lcci/)|216 ms|14.9 MB|🔶|
 |[ITV08.03](https://leetcode.cn/problems/magic-index-lcci/)|28 ms|15.7 MB|🔶|
 |[ITV10.01](https://leetcode.cn/problems/sorted-merge-lcci/)|36 ms|14.9 MB|🔶|
 |[ITV10.05](https://leetcode.cn/problems/sparse-array-search-lcci/)|36 ms|15.3 MB||
