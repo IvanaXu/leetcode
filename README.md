@@ -114,6 +114,7 @@
 |[0704](https://leetcode.cn/problems/binary-search/)|28 ms|16.1 MB|🔶🔶|
 |[0709](https://leetcode.cn/problems/to-lower-case/)|28 ms|14.8 MB|🔶|
 |[0728](https://leetcode.cn/problems/self-dividing-numbers/)|60 ms|14.9 MB||
+|[0744](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/)|32 ms|16.9 MB|🔶|
 |[0747](https://leetcode.cn/problems/largest-number-at-least-twice-of-others/)|28 ms|14.9 MB|🔶🔶|
 |[0771](https://leetcode.cn/problems/jewels-and-stones/)|36 ms|14.9 MB||
 |0801-0900 ⭕️|
