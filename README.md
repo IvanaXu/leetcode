@@ -42,7 +42,7 @@
 |[0070](https://leetcode.cn/problems/climbing-stairs/)|28 ms|14.8 MB|🔶|
 |0101-0200 ⭕️|
 |[0118](https://leetcode.cn/problems/pascals-triangle/)|52 ms|13.5 MB||
-|[0125](https://leetcode.cn/problems/valid-palindrome/)|44 ms|16.5 MB||
+|[0125](https://leetcode.cn/problems/valid-palindrome/)|40 ms|16.5 MB|🔶|
 |[0136](https://leetcode.cn/problems/single-number/)|40 ms|16.9 MB|🔶|
 |[0137](https://leetcode.cn/problems/single-number-ii/)|32 ms|17 MB|🔶|
 |[0151](https://leetcode.cn/problems/reverse-words-in-a-string/)|44 ms|15.1 MB||
