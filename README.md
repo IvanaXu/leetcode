@@ -47,6 +47,7 @@
 |[0088](https://leetcode.cn/problems/merge-sorted-array/)|32 ms|14.8 MB||
 |0101-0200 ⭕️|
 |[0118](https://leetcode.cn/problems/pascals-triangle/)|52 ms|13.5 MB||
+|[0121](https://leetcode.cn/problems/best-time-to-buy-and-sell-stock/)|96 ms|23.3 MB|🔶|
 |[0125](https://leetcode.cn/problems/valid-palindrome/)|40 ms|16.5 MB|🔶|
 |[0136](https://leetcode.cn/problems/single-number/)|40 ms|16.9 MB|🔶|
 |[0137](https://leetcode.cn/problems/single-number-ii/)|32 ms|17 MB|🔶|
