@@ -340,6 +340,7 @@
 |[ITV01.01](https://leetcode.cn/problems/is-unique-lcci/)|24 ms|15 MB|🔶🔶|
 |[ITV01.02](https://leetcode.cn/problems/check-permutation-lcci/)|28 ms|15 MB|🔶|
 |[ITV01.03](https://leetcode.cn/problems/string-to-url-lcci/)|40 ms|20.9 MB|🔶|
+|[ITV01.04](https://leetcode.cn/problems/palindrome-permutation-lcci/)|36 ms|15 MB||
 |[ITV01.06](https://leetcode.cn/problems/compress-string-lcci/)|40 ms|15.1 MB|🔶|
 |[ITV02.02](https://leetcode.cn/problems/kth-node-from-end-of-list-lcci/)|16 ms|13 MB|🔶🔶|
 |[ITV03.02](https://leetcode.cn/problems/min-stack-lcci/)|540 ms|18.5 MB||
