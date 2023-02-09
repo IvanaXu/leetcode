@@ -145,6 +145,7 @@
 |1101-1200 ⭕️|
 |[1114](https://leetcode.cn/problems/print-in-order/)|40 ms|15.6 MB|🔶|
 |[1122](https://leetcode.cn/problems/relative-sort-array/)|40 ms|15.1 MB||
+|[1128](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/)|52 ms|19.7 MB||
 |[1137](https://leetcode.cn/problems/n-th-tribonacci-number/)|32 ms|14.9 MB||
 |[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|28 ms|15 MB||
