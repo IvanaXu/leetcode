@@ -462,6 +462,7 @@
 |[OfferII003](https://leetcode.cn/problems/w3tCBm/)|52 ms|15.9 MB||
 |[OfferII006](https://leetcode.cn/problems/kLl5u1/)|24 ms|15.6 MB|🔶🔶|
 |[OfferII018](https://leetcode.cn/problems/XltzEq/)|36 ms|16.4 MB|🔶🔶|
+|[OfferII023](https://leetcode.cn/problems/3u1WK4/)|152 ms|30.6 MB||
 |[OfferII032](https://leetcode.cn/problems/dKk3P7/)|48 ms|16.1 MB||
 |[OfferII041](https://leetcode.cn/problems/qIsx9U/)|936 ms|18.3 MB||
 |[OfferII042](https://leetcode.cn/problems/H8086Q/)|2232 ms|20 MB||
