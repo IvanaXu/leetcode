@@ -256,6 +256,7 @@
 |[1741](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/)|580 ms|0 B||
 |[1742](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/)|680 ms|14.9 MB||
 |[1748](https://leetcode.cn/problems/sum-of-unique-elements/)|28 ms|15 MB|🔶🔶|
+|[1757](https://leetcode.cn/problems/recyclable-and-low-fat-products/)|578 ms|0 B||
 |[1768](https://leetcode.cn/problems/merge-strings-alternately/)|20 ms|15.1 MB|🔶🔶|
 |[1773](https://leetcode.cn/problems/count-items-matching-a-rule/)|40 ms|19.2 MB|🔶|
 |[1784](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|28 ms|14.9 MB|🔶|
