@@ -239,6 +239,7 @@
 |[1636](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)|36 ms|15.1 MB||
 |[1652](https://leetcode.cn/problems/defuse-the-bomb/)|36 ms|14.9 MB||
 |[1662](https://leetcode.cn/problems/check-if-two-string-arrays-are-equivalent/)|40 ms|14.9 MB||
+|[1667](https://leetcode.cn/problems/fix-names-in-a-table/)|630 ms|0 B||
 |[1668](https://leetcode.cn/problems/maximum-repeating-substring/)|32 ms|15 MB|🔶|
 |[1672](https://leetcode.cn/problems/richest-customer-wealth/)|40 ms|15 MB||
 |[1678](https://leetcode.cn/problems/goal-parser-interpretation/)|28 ms|14.9 MB|🔶|
