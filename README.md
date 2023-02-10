@@ -261,6 +261,7 @@
 |[1773](https://leetcode.cn/problems/count-items-matching-a-rule/)|40 ms|19.2 MB|🔶|
 |[1784](https://leetcode.cn/problems/check-if-binary-string-has-at-most-one-segment-of-ones/)|28 ms|14.9 MB|🔶|
 |[1790](https://leetcode.cn/problems/check-if-one-string-swap-can-make-strings-equal/)|36 ms|14.8 MB||
+|[1795](https://leetcode.cn/problems/rearrange-products-table/)|539 ms|0 B||
 |[1796](https://leetcode.cn/problems/second-largest-digit-in-a-string/)|36 ms|15 MB|🔶|
 |1801-1900 ⭕️|
 |[1812](https://leetcode.cn/problems/determine-color-of-a-chessboard-square/)|24 ms|15 MB|🔶🔶|
