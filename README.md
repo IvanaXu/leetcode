@@ -83,6 +83,7 @@
 |[0198](https://leetcode.cn/problems/house-robber/)|36 ms|14.9 MB|🔶|
 |0201-0300 ⭕️|
 |[0202](https://leetcode.cn/problems/happy-number/)|44 ms|14.8 MB||
+|[0203](https://leetcode.cn/problems/remove-linked-list-elements/)|64 ms|19.7 MB||
 |[0205](https://leetcode.cn/problems/isomorphic-strings/)|36 ms|15.2 MB|🔶|
 |[0206](https://leetcode.cn/problems/reverse-linked-list/)|44 ms|16.8 MB||
 |[0215](https://leetcode.cn/problems/kth-largest-element-in-an-array/)|100 ms|24.5 MB|🔶|
