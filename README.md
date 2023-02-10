@@ -121,6 +121,7 @@
 |[0506](https://leetcode.cn/problems/relative-ranks/)|36 ms|16.2 MB|🔶|
 |[0507](https://leetcode.cn/problems/perfect-number/)|28 ms|14.9 MB|🔶🔶|
 |[0509](https://leetcode.cn/problems/fibonacci-number/)|32 ms|15 MB|🔶|
+|[0511](https://leetcode.cn/problems/game-play-analysis-i/)|471 ms|0 B||
 |[0520](https://leetcode.cn/problems/detect-capital/)|32 ms|15 MB|🔶|
 |[0535](https://leetcode.cn/problems/encode-and-decode-tinyurl/)|32 ms|14.8 MB||
 |[0537](https://leetcode.cn/problems/complex-number-multiplication/)|32 ms|15 MB|🔶|
