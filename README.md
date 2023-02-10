@@ -182,6 +182,7 @@
 |[1122](https://leetcode.cn/problems/relative-sort-array/)|40 ms|15.1 MB||
 |[1128](https://leetcode.cn/problems/number-of-equivalent-domino-pairs/)|52 ms|19.7 MB||
 |[1137](https://leetcode.cn/problems/n-th-tribonacci-number/)|32 ms|14.9 MB||
+|[1141](https://leetcode.cn/problems/user-activity-for-the-past-30-days-i/)|473 ms|0 B||
 |[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|28 ms|15 MB||
 |[1189](https://leetcode.cn/problems/maximum-number-of-balloons/)|24 ms|15 MB|🔶🔶|
