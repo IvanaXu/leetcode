@@ -137,6 +137,7 @@
 |0601-0700 ⭕️|
 |[0601](https://leetcode.cn/problems/human-traffic-of-stadium/)|426 ms|0 B||
 |[0607](https://leetcode.cn/problems/sales-person/)|1299 ms|0 B||
+|[0608](https://leetcode.cn/problems/tree-node/)|471 ms|0 B||
 |[0609](https://leetcode.cn/problems/find-duplicate-file-in-system/)|48 ms|21.4 MB|🔶🔶|
 |[0657](https://leetcode.cn/problems/robot-return-to-origin/)|60 ms|15.1 MB||
 |[0680](https://leetcode.cn/problems/valid-palindrome-ii/)|56 ms|15.2 MB|🔶🔶|
