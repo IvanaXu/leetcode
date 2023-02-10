@@ -62,6 +62,7 @@
 |[0175](https://leetcode.cn/problems/combine-two-tables/)|401 ms|0 B||
 |[0176](https://leetcode.cn/problems/second-highest-salary/)|223 ms|0 B||
 |[0177](https://leetcode.cn/problems/nth-highest-salary/)|351 ms|0 B||
+|[0178](https://leetcode.cn/problems/rank-scores/)|274 ms|0 B||
 |[0179](https://leetcode.cn/problems/largest-number/)|32 ms|15 MB|🔶🔶|
 |[0180](https://leetcode.cn/problems/consecutive-numbers/)|495 ms|0 B||
 |[0181](https://leetcode.cn/problems/employees-earning-more-than-their-managers/)|360 ms|0 B||
