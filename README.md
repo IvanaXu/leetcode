@@ -218,6 +218,7 @@
 |[1464](https://leetcode.cn/problems/maximum-product-of-two-elements-in-an-array/)|32 ms|15.1 MB|🔶|
 |[1470](https://leetcode.cn/problems/shuffle-the-array/)|24 ms|15.1 MB|🔶🔶|
 |[1480](https://leetcode.cn/problems/running-sum-of-1d-array/)|36 ms|15.1 MB||
+|[1484](https://leetcode.cn/problems/group-sold-products-by-the-date/)|446 ms|0 B||
 |[1486](https://leetcode.cn/problems/xor-operation-in-an-array/)|36 ms|14.9 MB||
 |[1491](https://leetcode.cn/problems/average-salary-excluding-the-minimum-and-maximum-salary/)|32 ms|14.9 MB||
 |[1496](https://leetcode.cn/problems/path-crossing/)|32 ms|15 MB|🔶|
