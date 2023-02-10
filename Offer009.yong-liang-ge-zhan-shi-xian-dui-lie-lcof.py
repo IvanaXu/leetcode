@@ -7,12 +7,7 @@ class CQueue:
         self.q.append(value)
 
     def deleteHead(self) -> int:
-        if not self.q:
-            return -1
-        else:
-            _r = self.q[0]
-            self.q.pop(0)
-            return _r
+        return -1 if not self.q else self.q.pop(0)
 
 # Your CQueue object will be instantiated and called as such:
 # obj = CQueue()
