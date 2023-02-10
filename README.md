@@ -90,6 +90,7 @@
 |[0217](https://leetcode.cn/problems/contains-duplicate/)|60 ms|27 MB||
 |[0225](https://leetcode.cn/problems/implement-stack-using-queues/)|32 ms|14.9 MB|🔶|
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms|13.6 MB||
+|[0232](https://leetcode.cn/problems/implement-queue-using-stacks/)|36 ms|15 MB||
 |[0238](https://leetcode.cn/problems/product-of-array-except-self/)|72 ms|19.8 MB||
 |[0242](https://leetcode.cn/problems/valid-anagram/)|48 ms|16.1 MB||
 |[0258](https://leetcode.cn/problems/add-digits/)|32 ms|14.9 MB|🔶|
