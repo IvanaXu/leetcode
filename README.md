@@ -186,6 +186,7 @@
 |[1148](https://leetcode.cn/problems/article-views-i/)|492 ms|0 B||
 |[1154](https://leetcode.cn/problems/day-of-the-year/)|52 ms|15.1 MB||
 |[1158](https://leetcode.cn/problems/market-analysis-i/)|1197 ms|0 B||
+|[1179](https://leetcode.cn/problems/reformat-department-table/)|583 ms|0 B||
 |[1185](https://leetcode.cn/problems/day-of-the-week/)|28 ms|15 MB||
 |[1189](https://leetcode.cn/problems/maximum-number-of-balloons/)|24 ms|15 MB|🔶🔶|
 |1201-1300 ⭕️|
