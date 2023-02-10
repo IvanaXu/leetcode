@@ -253,6 +253,7 @@
 |[1720](https://leetcode.cn/problems/decode-xored-array/)|44 ms|16.4 MB|🔶|
 |[1729](https://leetcode.cn/problems/find-followers-count/)|545 ms|0 B||
 |[1732](https://leetcode.cn/problems/find-the-highest-altitude/)|28 ms|14.9 MB|🔶|
+|[1741](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/)|580 ms|0 B||
 |[1742](https://leetcode.cn/problems/maximum-number-of-balls-in-a-box/)|680 ms|14.9 MB||
 |[1748](https://leetcode.cn/problems/sum-of-unique-elements/)|28 ms|15 MB|🔶🔶|
 |[1768](https://leetcode.cn/problems/merge-strings-alternately/)|20 ms|15.1 MB|🔶🔶|
