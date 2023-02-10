@@ -431,6 +431,7 @@
 |[Offer006](https://leetcode.cn/problems/cong-wei-dao-tou-da-yin-lian-biao-lcof/)|44 ms|16.5 MB||
 |[Offer010II](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)|28 ms|14.9 MB|🔶🔶|
 |[Offer015](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|40 ms|14.7 MB||
+|[Offer022](https://leetcode.cn/problems/lian-biao-zhong-dao-shu-di-kge-jie-dian-lcof/)|28 ms|14.9 MB|🔶🔶|
 |[Offer024](https://leetcode.cn/problems/fan-zhuan-lian-biao-lcof/)|44 ms|16.8 MB||
 |[Offer025](https://leetcode.cn/problems/he-bing-liang-ge-pai-xu-de-lian-biao-lcof/)|52 ms|16 MB||
 |[Offer030](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)|572 ms|18.5 MB||
