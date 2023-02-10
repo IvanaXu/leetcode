@@ -2,6 +2,7 @@
 > https://leetcode.cn/u/ivanaxu/
 
 [![Website](https://img.shields.io/website?label=Rank&up_color=orange&url=https%3A%2F%2Fshields.io&up_message=56,306)]()
+[![Website](https://img.shields.io/website?label=Easy&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=353)]()
 [![Website](https://img.shields.io/website?label=Easy&up_color=green&url=https%3A%2F%2Fshields.io&up_message=306)]()
 [![Website](https://img.shields.io/website?label=Medium&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=45)]()
 [![Website](https://img.shields.io/website?label=Hard&up_color=red&url=https%3A%2F%2Fshields.io&up_message=2)]()
