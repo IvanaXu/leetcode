@@ -64,6 +64,7 @@
 |[0181](https://leetcode.cn/problems/employees-earning-more-than-their-managers/)|360 ms|0 B||
 |[0182](https://leetcode.cn/problems/duplicate-emails/)|358 ms|0 B||
 |[0183](https://leetcode.cn/problems/customers-who-never-order/)|494 ms|0 B||
+|[0184](https://leetcode.cn/problems/department-highest-salary/)|631 ms|0 B||
 |[0190](https://leetcode.cn/problems/reverse-bits/)|32 ms|14.8 MB|🔶|
 |[0191](https://leetcode.cn/problems/number-of-1-bits/)|28 ms|14.8 MB||
 |[0195](https://leetcode.cn/problems/tenth-line/)|0 ms|3.6 MB|🔶🔶|
