@@ -289,6 +289,7 @@
 |[1945](https://leetcode.cn/problems/sum-of-digits-of-string-after-convert/)|36 ms|14.9 MB|🔶|
 |[1952](https://leetcode.cn/problems/three-divisors/)|32 ms|15 MB|🔶|
 |[1961](https://leetcode.cn/problems/check-if-string-is-a-prefix-of-array/)|28 ms|15 MB|🔶|
+|[1965](https://leetcode.cn/problems/employees-with-missing-information/)|600 ms|0 B||
 |[1967](https://leetcode.cn/problems/number-of-strings-that-appear-as-substrings-in-word/)|40 ms|15.1 MB||
 |[1979](https://leetcode.cn/problems/find-greatest-common-divisor-of-array/)|40 ms|15.1 MB||
 |[1984](https://leetcode.cn/problems/minimum-difference-between-highest-and-lowest-of-k-scores/)|164 ms|15.1 MB||
