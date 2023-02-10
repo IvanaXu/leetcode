@@ -103,6 +103,7 @@
 |[0283](https://leetcode.cn/problems/move-zeroes/)|932 ms|15.8 MB||
 |[0290](https://leetcode.cn/problems/word-pattern/)|28 ms|14.8 MB|🔶🔶|
 |0301-0400 ⭕️|
+|[0303](https://leetcode.cn/problems/range-sum-query-immutable/)|928 ms|18.2 MB||
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms|13.6 MB||
 |[0338](https://leetcode.cn/problems/counting-bits/)|52 ms|15.9 MB||
 |[0342](https://leetcode.cn/problems/power-of-four/)|48 ms|14.9 MB||
