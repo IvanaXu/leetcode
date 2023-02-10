@@ -130,6 +130,7 @@
 |[0561](https://leetcode.cn/problems/array-partition/)|84 ms|16.8 MB||
 |[0575](https://leetcode.cn/problems/distribute-candies/)|84 ms|16.6 MB||
 |[0584](https://leetcode.cn/problems/find-customer-referee/)|473 ms|0 B||
+|[0586](https://leetcode.cn/problems/customer-placing-the-largest-number-of-orders/)|489 ms|0 B||
 |[0599](https://leetcode.cn/problems/minimum-index-sum-of-two-lists/)|84 ms|15.3 MB||
 |0601-0700 ⭕️|
 |[0609](https://leetcode.cn/problems/find-duplicate-file-in-system/)|48 ms|21.4 MB|🔶🔶|
