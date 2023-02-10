@@ -88,6 +88,7 @@
 |[0206](https://leetcode.cn/problems/reverse-linked-list/)|44 ms|16.8 MB||
 |[0215](https://leetcode.cn/problems/kth-largest-element-in-an-array/)|100 ms|24.5 MB|🔶|
 |[0217](https://leetcode.cn/problems/contains-duplicate/)|60 ms|27 MB||
+|[0225](https://leetcode.cn/problems/implement-stack-using-queues/)|32 ms|14.9 MB|🔶|
 |[0231](https://leetcode.cn/problems/power-of-two/)|56 ms|13.6 MB||
 |[0238](https://leetcode.cn/problems/product-of-array-except-self/)|72 ms|19.8 MB||
 |[0242](https://leetcode.cn/problems/valid-anagram/)|48 ms|16.1 MB||
