@@ -274,6 +274,7 @@
 |[1854](https://leetcode.cn/problems/maximum-population-year/)|36 ms|14.9 MB||
 |[1859](https://leetcode.cn/problems/sorting-the-sentence/)|36 ms|15.2 MB||
 |[1869](https://leetcode.cn/problems/longer-contiguous-segments-of-ones-than-zeros/)|40 ms|14.9 MB||
+|[1873](https://leetcode.cn/problems/calculate-special-bonus/)|673 ms|0 B||
 |[1876](https://leetcode.cn/problems/substrings-of-size-three-with-distinct-characters/)|32 ms|14.9 MB|🔶|
 |[1880](https://leetcode.cn/problems/check-if-word-equals-summation-of-two-words/)|32 ms|15 MB|🔶|
 |[1893](https://leetcode.cn/problems/check-if-all-the-integers-in-a-range-are-covered/)|28 ms|14.9 MB|🔶🔶|
