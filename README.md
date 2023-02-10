@@ -79,6 +79,7 @@
 |[0191](https://leetcode.cn/problems/number-of-1-bits/)|28 ms|14.8 MB||
 |[0192](https://leetcode.cn/problems/word-frequency/)|0 ms|3.7 MB|🔶🔶|
 |[0193](https://leetcode.cn/problems/valid-phone-numbers/)|0 ms|3.1 MB|🔶🔶|
+|[0194](https://leetcode.cn/problems/transpose-file/)|92 ms|9.2 MB||
 |[0195](https://leetcode.cn/problems/tenth-line/)|0 ms|3.6 MB|🔶🔶|
 |[0196](https://leetcode.cn/problems/delete-duplicate-emails/)|834 ms|0 B||
 |[0197](https://leetcode.cn/problems/rising-temperature/)|396 ms|0 B||
