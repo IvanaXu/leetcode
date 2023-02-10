@@ -27,6 +27,7 @@
 |[0013](https://leetcode.cn/problems/roman-to-integer/)|48 ms|14.8 MB||
 |[0014](https://leetcode.cn/problems/longest-common-prefix/)|56 ms|13.7 MB||
 |[0017](https://leetcode.cn/problems/letter-combinations-of-a-phone-number/)|56 ms|13.3 MB||
+|[0021](https://leetcode.cn/problems/merge-two-sorted-lists/submissions/)|28 ms|12.9 MB|🔶|
 |[0027](https://leetcode.cn/problems/remove-element/)|32 ms|15 MB||
 |[0028](https://leetcode.cn/problems/find-the-index-of-the-first-occurrence-in-a-string/)|28 ms|15 MB|🔶|
 |[0029](https://leetcode.cn/problems/divide-two-integers/)|40 ms|14.8 MB||
