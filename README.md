@@ -287,6 +287,7 @@
 |[1710](https://leetcode.cn/problems/maximum-units-on-a-truck/)|48 ms|15.3 MB||
 |[1716](https://leetcode.cn/problems/calculate-money-in-leetcode-bank/)|28 ms|15 MB|🔶|
 |[1720](https://leetcode.cn/problems/decode-xored-array/)|44 ms|16.4 MB|🔶|
+|[1721](https://leetcode.cn/problems/swapping-nodes-in-a-linked-list/)|1648 ms|70 MB||
 |[1729](https://leetcode.cn/problems/find-followers-count/)|545 ms|0 B||
 |[1732](https://leetcode.cn/problems/find-the-highest-altitude/)|28 ms|14.9 MB|🔶|
 |[1741](https://leetcode.cn/problems/find-total-time-spent-by-each-employee/)|580 ms|0 B||
