@@ -122,6 +122,7 @@
 |0301-0400 ⭕️|
 |[0303](https://leetcode.cn/problems/range-sum-query-immutable/)|64 ms|18.2 MB||
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms|13.6 MB||
+|[0328](https://leetcode.cn/problems/odd-even-linked-list/)|56 ms|18.3 MB||
 |[0338](https://leetcode.cn/problems/counting-bits/)|52 ms|15.9 MB||
 |[0342](https://leetcode.cn/problems/power-of-four/)|48 ms|14.9 MB||
 |[0344](https://leetcode.cn/problems/reverse-string/)|56 ms|19.6 MB||
