@@ -393,6 +393,7 @@
 |[2475](https://leetcode.cn/problems/number-of-unequal-triplets-in-array/)|1716 ms|30.9 MB||
 |[2481](https://leetcode.cn/problems/minimum-cuts-to-divide-a-circle/)|28 ms|14.8 MB|🔶|
 |[2485](https://leetcode.cn/problems/find-the-pivot-integer/)|36 ms|14.9 MB|🔶|
+|[2487](https://leetcode.cn/problems/remove-nodes-from-linked-list/)|1216 ms|72.2 MB||
 |[2490](https://leetcode.cn/problems/circular-sentence/)|32 ms|15.1 MB|🔶|
 |[2496](https://leetcode.cn/problems/maximum-value-of-a-string-in-an-array/)|28 ms|15 MB|🔶|
 |[2500](https://leetcode.cn/problems/delete-greatest-value-in-each-row/)|32 ms|15.1 MB|🔶🔶|
