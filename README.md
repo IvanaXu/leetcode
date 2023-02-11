@@ -66,6 +66,7 @@
 |[0141](https://leetcode.cn/problems/linked-list-cycle/)|1052 ms|18.4 MB||
 |[0142](https://leetcode.cn/problems/linked-list-cycle-ii/)|760 ms|18.9 MB||
 |[0143](https://leetcode.cn/problems/reorder-list/)|100 ms|23.1 MB||
+|[0147](https://leetcode.cn/problems/insertion-sort-list/)|44 ms|17.9 MB|🔶🔶|
 |[0151](https://leetcode.cn/problems/reverse-words-in-a-string/)|44 ms|15.1 MB||
 |[0155](https://leetcode.cn/problems/min-stack/submissions/)|580 ms|18.2 MB||
 |[0160](https://leetcode.cn/problems/intersection-of-two-linked-lists/)|144 ms|30.7 MB||
