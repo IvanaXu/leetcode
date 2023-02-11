@@ -363,6 +363,7 @@
 |[2133](https://leetcode.cn/problems/check-if-every-row-and-column-contains-all-numbers/)|96 ms|16.2 MB||
 |[2138](https://leetcode.cn/problems/divide-a-string-into-groups-of-size-k/)|28 ms|15 MB|🔶🔶|
 |[2148](https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements/)|28 ms|15 MB|🔶|
+|[2149](https://leetcode.cn/problems/rearrange-array-elements-by-sign/)|160 ms|36.1 MB||
 |[2154](https://leetcode.cn/problems/keep-multiplying-found-values-by-two/)|36 ms|15.2 MB||
 |[2160](https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|32 ms|14.9 MB|🔶|
 |[2161](https://leetcode.cn/problems/partition-array-according-to-given-pivot/)|200 ms|34.3 MB||
