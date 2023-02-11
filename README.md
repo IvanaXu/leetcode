@@ -130,6 +130,7 @@
 |[0349](https://leetcode.cn/problems/intersection-of-two-arrays/)|28 ms|15.1 MB||
 |[0367](https://leetcode.cn/problems/valid-perfect-square/)|32 ms|14.8 MB|🔶|
 |[0374](https://leetcode.cn/problems/guess-number-higher-or-lower/)|28 ms|14.8 MB||
+|[0382](https://leetcode.cn/problems/linked-list-random-node/)|104 ms|17.1 MB|🔶🔶|
 |[0387](https://leetcode.cn/problems/first-unique-character-in-a-string/)|128 ms|15 MB||
 |0401-0500 ⭕️|
 |[0405](https://leetcode.cn/problems/convert-a-number-to-hexadecimal/)|24 ms|14.9 MB|🔶🔶|
