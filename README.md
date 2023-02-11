@@ -365,6 +365,7 @@
 |[2148](https://leetcode.cn/problems/count-elements-with-strictly-smaller-and-greater-elements/)|28 ms|15 MB|🔶|
 |[2154](https://leetcode.cn/problems/keep-multiplying-found-values-by-two/)|36 ms|15.2 MB||
 |[2160](https://leetcode.cn/problems/minimum-sum-of-four-digit-number-after-splitting-digits/)|32 ms|14.9 MB|🔶|
+|[2161](https://leetcode.cn/problems/partition-array-according-to-given-pivot/)|200 ms|34.3 MB||
 |[2180](https://leetcode.cn/problems/count-integers-with-even-digit-sum/)|52 ms|14.9 MB||
 |[2181](https://leetcode.cn/problems/merge-nodes-in-between-zeros/)|2220 ms|102.9 MB||
 |[2185](https://leetcode.cn/problems/counting-words-with-a-given-prefix/)|32 ms|15.1 MB|🔶|
