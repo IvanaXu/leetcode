@@ -38,6 +38,7 @@
 |[0029](https://leetcode.cn/problems/divide-two-integers/)|40 ms|14.8 MB||
 |[0034](https://leetcode.cn/problems/find-first-and-last-position-of-element-in-sorted-array/)|36 ms|15.9 MB|🔶|
 |[0035](https://leetcode.cn/problems/search-insert-position/)|40 ms|15.6 MB||
+|[0041](https://leetcode.cn/problems/first-missing-positive/)|52 ms|24.1 MB|🔶|
 |[0043](https://leetcode.cn/problems/multiply-strings/)|36 ms|15.1 MB|🔶|
 |[0048](https://leetcode.cn/problems/rotate-image/)|56 ms|13.4 MB||
 |[0049](https://leetcode.cn/problems/group-anagrams/)|48 ms|17.8 MB|🔶|
