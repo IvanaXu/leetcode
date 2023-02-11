@@ -188,6 +188,7 @@
 |[0771](https://leetcode.cn/problems/jewels-and-stones/)|36 ms|14.9 MB||
 |0801-0900 ⭕️|
 |[0804](https://leetcode.cn/problems/unique-morse-code-words/)|32 ms|15.1 MB|🔶|
+|[0817](https://leetcode.cn/problems/linked-list-components/)|1160 ms|20 MB||
 |[0819](https://leetcode.cn/problems/most-common-word/)|44 ms|15.2 MB||
 |[0824](https://leetcode.cn/problems/goat-latin/)|28 ms|15 MB|🔶🔶|
 |[0844](https://leetcode.cn/problems/backspace-string-compare/)|32 ms|15 MB|🔶|
