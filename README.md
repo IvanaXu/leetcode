@@ -47,6 +47,7 @@
 |[0069](https://leetcode.cn/problems/sqrtx/)|48 ms|14.9 MB|🔶|
 |[0070](https://leetcode.cn/problems/climbing-stairs/)|28 ms|14.8 MB|🔶|
 |[0080](https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii/)|36 ms|15 MB||
+|[0082](https://leetcode.cn/problems/remove-duplicates-from-sorted-list-ii/)|48 ms|15.1 MB||
 |[0083](https://leetcode.cn/problems/remove-duplicates-from-sorted-list/)|40 ms|15 MB||
 |[0088](https://leetcode.cn/problems/merge-sorted-array/)|32 ms|14.8 MB||
 |0101-0200 ⭕️|
