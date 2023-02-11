@@ -214,7 +214,7 @@
 |[1051](https://leetcode.cn/problems/height-checker/)|32 ms|15 MB||
 |[1078](https://leetcode.cn/problems/occurrences-after-bigram/)|24 ms|15 MB|🔶🔶|
 |[1084](https://leetcode.cn/problems/sales-analysis-iii/)|987 ms|0 B||
-|[1089](https://leetcode.cn/problems/duplicate-zeros/)|32 ms|15.4 MB||
+|[1089](https://leetcode.cn/problems/duplicate-zeros/)|32 ms|15.4 MB|🔶|
 |1101-1200 ⭕️|
 |[1114](https://leetcode.cn/problems/print-in-order/)|40 ms|15.6 MB|🔶|
 |[1122](https://leetcode.cn/problems/relative-sort-array/)|40 ms|15.1 MB||
