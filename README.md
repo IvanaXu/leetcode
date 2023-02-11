@@ -203,6 +203,7 @@
 |[0929](https://leetcode.cn/problems/unique-email-addresses/)|44 ms|15.1 MB|🔶🔶|
 |[0933](https://leetcode.cn/problems/number-of-recent-calls/)|2472 ms|17.8 MB||
 |[0941](https://leetcode.cn/problems/valid-mountain-array/)|44 ms|15.8 MB|🔶|
+|[0950](https://leetcode.cn/problems/reveal-cards-in-increasing-order/)|32 ms|15.1 MB|🔶|
 |[0976](https://leetcode.cn/problems/largest-perimeter-triangle/)|52 ms|16 MB||
 |[0977](https://leetcode.cn/problems/squares-of-a-sorted-array/)|56 ms|16.8 MB||
 |[0989](https://leetcode.cn/problems/add-to-array-form-of-integer/)|76 ms|16.1 MB||
