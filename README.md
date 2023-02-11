@@ -123,6 +123,7 @@
 |[0295](https://leetcode.cn/problems/find-median-from-data-stream/)|1252 ms|35.4 MB||
 |0301-0400 ⭕️|
 |[0303](https://leetcode.cn/problems/range-sum-query-immutable/)|64 ms|18.2 MB||
+|[0315](https://leetcode.cn/problems/count-of-smaller-numbers-after-self/)|4064 ms|31 MB||
 |[0326](https://leetcode.cn/problems/power-of-three/)|92 ms|13.6 MB||
 |[0328](https://leetcode.cn/problems/odd-even-linked-list/)|56 ms|18.3 MB||
 |[0338](https://leetcode.cn/problems/counting-bits/)|52 ms|15.9 MB||
