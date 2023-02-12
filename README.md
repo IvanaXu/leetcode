@@ -497,6 +497,7 @@
 |[Offer030](https://leetcode.cn/problems/bao-han-minhan-shu-de-zhan-lcof/)|572 ms|18.5 MB||
 |[Offer039](https://leetcode.cn/problems/shu-zu-zhong-chu-xian-ci-shu-chao-guo-yi-ban-de-shu-zi-lcof/)|56 ms|16.3 MB||
 |[Offer040](https://leetcode.cn/problems/zui-xiao-de-kge-shu-lcof/)|56 ms|15.9 MB||
+|[Offer041](https://leetcode.cn/problems/shu-ju-liu-zhong-de-zhong-wei-shu-lcof/)|220 ms|25.9 MB||
 |[Offer052](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)|144 ms|30.4 MB||
 |[Offer053I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|24 ms|16.4 MB|🔶🔶|
 |[Offer053II](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)|32 ms|15.8 MB||
