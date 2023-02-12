@@ -471,7 +471,7 @@
 |[ITV17.10](https://leetcode.cn/problems/find-majority-element-lcci/)|44 ms|16.4 MB||
 |[ITV17.14](https://leetcode.cn/problems/smallest-k-lcci/)|40 ms|19.1 MB|🔶🔶|
 |[ITV17.16](https://leetcode.cn/problems/the-masseuse-lcci/)|28 ms|14.9 MB|🔶|
-|[ITV17.19](https://leetcode.cn/problems/missing-two-lcci/)|4052 ms|17.7 MB||
+|[ITV17.19](https://leetcode.cn/problems/missing-two-lcci/)|48 ms|20.7 MB|🔶|
 |[ITV17.20](https://leetcode.cn/problems/continuous-median-lcci/)|200 ms|26.2 MB||
 |[ITV67](https://leetcode.cn/problems/ba-zi-fu-chuan-zhuan-huan-cheng-zheng-shu-lcof/)|36 ms|15 MB|🔶|
 |[LCP01](https://leetcode.cn/problems/guess-numbers/)|28 ms|14.8 MB|🔶🔶|
