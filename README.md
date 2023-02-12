@@ -176,6 +176,7 @@
 |[0620](https://leetcode.cn/problems/not-boring-movies/)|210 ms|0 B||
 |[0626](https://leetcode.cn/problems/exchange-seats/)|186 ms|0 B||
 |[0627](https://leetcode.cn/problems/swap-salary/)|171 ms|0 B||
+|[0646](https://leetcode.cn/problems/maximum-length-of-pair-chain/)|36 ms|15.3 MB|🔶🔶|
 |[0657](https://leetcode.cn/problems/robot-return-to-origin/)|60 ms|15.1 MB||
 |[0680](https://leetcode.cn/problems/valid-palindrome-ii/)|56 ms|15.2 MB|🔶🔶|
 |0701-0800 ⭕️|
