@@ -454,6 +454,7 @@
 |[ITV02.01](https://leetcode.cn/problems/remove-duplicate-node-lcci/)|1044 ms|24.4 MB||
 |[ITV02.02](https://leetcode.cn/problems/kth-node-from-end-of-list-lcci/)|16 ms|13 MB|🔶🔶|
 |[ITV02.03](https://leetcode.cn/problems/delete-middle-node-lcci/)|36 ms|15.3 MB|🔶|
+|[ITV02.05](https://leetcode.cn/problems/sum-lists-lcci/)|60 ms|15.2 MB||
 |[ITV02.06](https://leetcode.cn/problems/palindrome-linked-list-lcci/)|52 ms|25.2 MB|🔶🔶|
 |[ITV02.07](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|148 ms|30.4 MB||
 |[ITV03.02](https://leetcode.cn/problems/min-stack-lcci/)|540 ms|18.5 MB||
