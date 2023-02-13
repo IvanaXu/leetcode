@@ -527,6 +527,7 @@
 |[Offer065](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)|36 ms|14.9 MB||
 |[OfferII002](https://leetcode.cn/problems/JFETK5/)|28 ms|15 MB|🔶🔶|
 |[OfferII003](https://leetcode.cn/problems/w3tCBm/)|52 ms|15.9 MB||
+|[OfferII004](https://leetcode.cn/problems/WGki4K/)|32 ms|17.2 MB|🔶|
 |[OfferII006](https://leetcode.cn/problems/kLl5u1/)|24 ms|15.6 MB|🔶🔶|
 |[OfferII018](https://leetcode.cn/problems/XltzEq/)|36 ms|16.4 MB|🔶🔶|
 |[OfferII021](https://leetcode.cn/problems/SLwz0R/)|24 ms|13.1 MB||
