@@ -343,6 +343,7 @@
 |[1985](https://leetcode.cn/problems/find-the-kth-largest-integer-in-the-array/)|80 ms|21.3 MB||
 |[2000](https://leetcode.cn/problems/reverse-prefix-of-word/)|28 ms|15 MB|🔶|
 |2001-2100 ⭕️|
+|[2006](https://leetcode.cn/problems/count-number-of-pairs-with-absolute-difference-k/)|208 ms|15 MB||
 |[2011](https://leetcode.cn/problems/final-value-of-variable-after-performing-operations/)|36 ms|15 MB||
 |[2016](https://leetcode.cn/problems/maximum-difference-between-increasing-elements/)|32 ms|15.1 MB|🔶|
 |[2022](https://leetcode.cn/problems/convert-1d-array-into-2d-array/)|48 ms|20.3 MB|🔶🔶|
