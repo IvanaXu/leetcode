@@ -116,6 +116,7 @@
 |[0260](https://leetcode.cn/problems/single-number-iii/)|32 ms|17 MB|🔶|
 |[0262](https://leetcode.cn/problems/trips-and-users/)|592 ms|0 B||
 |[0263](https://leetcode.cn/problems/ugly-number/)|32 ms|14.9 MB|🔶|
+|[0264](https://leetcode.cn/problems/ugly-number-ii/)|128 ms|15.1 MB||
 |[0268](https://leetcode.cn/problems/missing-number/)|40 ms|16 MB|🔶|
 |[0278](https://leetcode.cn/problems/first-bad-version/)|36 ms|14.8 MB||
 |[0283](https://leetcode.cn/problems/move-zeroes/)|932 ms|15.8 MB||
