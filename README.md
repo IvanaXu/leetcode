@@ -529,6 +529,7 @@
 |[OfferII003](https://leetcode.cn/problems/w3tCBm/)|52 ms|15.9 MB||
 |[OfferII006](https://leetcode.cn/problems/kLl5u1/)|24 ms|15.6 MB|🔶🔶|
 |[OfferII018](https://leetcode.cn/problems/XltzEq/)|36 ms|16.4 MB|🔶🔶|
+|[OfferII021](https://leetcode.cn/problems/SLwz0R/)|24 ms|13.1 MB||
 |[OfferII022](https://leetcode.cn/problems/c32eOV/)|420 ms|19 MB||
 |[OfferII023](https://leetcode.cn/problems/3u1WK4/)|152 ms|30.6 MB||
 |[OfferII024](https://leetcode.cn/problems/UHnkqh/)|48 ms|17 MB||
