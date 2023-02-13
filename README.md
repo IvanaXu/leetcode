@@ -237,6 +237,7 @@
 |[1288](https://leetcode.cn/problems/remove-covered-intervals/)|40 ms|15.4 MB||
 |[1290](https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/)|40 ms|14.8 MB||
 |[1295](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/)|40 ms|15.1 MB||
+|[1299](https://leetcode.cn/problems/replace-elements-with-greatest-element-on-right-side/)|84 ms|16.6 MB|🔶|
 |1301-1400 ⭕️|
 |[1304](https://leetcode.cn/problems/find-n-unique-integers-sum-up-to-zero/)|32 ms|15.1 MB||
 |[1309](https://leetcode.cn/problems/decrypt-string-from-alphabet-to-integer-mapping/)|32 ms|15 MB|🔶|
