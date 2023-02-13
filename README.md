@@ -479,6 +479,7 @@
 |[ITV16.15](https://leetcode.cn/problems/master-mind-lcci/)|28 ms|15 MB|🔶|
 |[ITV17.01](https://leetcode.cn/problems/add-without-plus-lcci/)|36 ms|14.8 MB||
 |[ITV17.04](https://leetcode.cn/problems/missing-number-lcci/)|36 ms|15.9 MB||
+|[ITV17.09](https://leetcode.cn/problems/get-kth-magic-number-lcci/)|36 ms|14.9 MB||
 |[ITV17.10](https://leetcode.cn/problems/find-majority-element-lcci/)|44 ms|16.4 MB||
 |[ITV17.14](https://leetcode.cn/problems/smallest-k-lcci/)|40 ms|19.1 MB|🔶🔶|
 |[ITV17.16](https://leetcode.cn/problems/the-masseuse-lcci/)|28 ms|14.9 MB|🔶|
