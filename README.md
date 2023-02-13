@@ -234,6 +234,7 @@
 |1201-1300 ⭕️|
 |[1207](https://leetcode.cn/problems/unique-number-of-occurrences/)|36 ms|14.9 MB||
 |[1281](https://leetcode.cn/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)|32 ms|15 MB||
+|[1287](https://leetcode.cn/problems/element-appearing-more-than-25-in-sorted-array/)|40 ms|16.3 MB||
 |[1288](https://leetcode.cn/problems/remove-covered-intervals/)|40 ms|15.4 MB||
 |[1290](https://leetcode.cn/problems/convert-binary-number-in-a-linked-list-to-integer/)|40 ms|14.8 MB||
 |[1295](https://leetcode.cn/problems/find-numbers-with-even-number-of-digits/)|40 ms|15.1 MB||
