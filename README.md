@@ -477,6 +477,7 @@
 |[ITV16.05](https://leetcode.cn/problems/factorial-zeros-lcci/)|32 ms|14.9 MB|🔶|
 |[ITV16.07](https://leetcode.cn/problems/maximum-lcci/)|40 ms|14.9 MB||
 |[ITV16.15](https://leetcode.cn/problems/master-mind-lcci/)|28 ms|15 MB|🔶|
+|[ITV16.16](https://leetcode.cn/problems/sub-sort-lcci/)|92 ms|34.4 MB||
 |[ITV17.01](https://leetcode.cn/problems/add-without-plus-lcci/)|36 ms|14.8 MB||
 |[ITV17.04](https://leetcode.cn/problems/missing-number-lcci/)|36 ms|15.9 MB||
 |[ITV17.09](https://leetcode.cn/problems/get-kth-magic-number-lcci/)|36 ms|14.9 MB||
