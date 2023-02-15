@@ -42,7 +42,7 @@
 |[0043](https://leetcode.cn/problems/multiply-strings/)|36 ms|15.1 MB|🔶|
 |[0048](https://leetcode.cn/problems/rotate-image/)|56 ms|13.4 MB||
 |[0049](https://leetcode.cn/problems/group-anagrams/)|48 ms|17.8 MB|🔶|
-|[0050](https://leetcode.cn/problems/powx-n/)|48 ms|13.8 MB||
+|[0050](https://leetcode.cn/problems/powx-n/)|36 ms|14.9 MB||
 |[0056](https://leetcode.cn/problems/merge-intervals/)|44 ms|17.9 MB|🔶|
 |[0057](https://leetcode.cn/problems/insert-interval/)|32 ms|16.7 MB|🔶🔶|
 |[0058](https://leetcode.cn/problems/length-of-last-word/)|68 ms|13.6 MB||
