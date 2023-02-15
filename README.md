@@ -535,6 +535,7 @@
 |[Offer056II](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)|52 ms|16.4 MB|🔶|
 |[Offer057](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|108 ms|25.9 MB||
 |[Offer058I](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/)|36 ms|15.4 MB||
+|[Offer058II](https://leetcode.cn/problems/zuo-xuan-zhuan-zi-fu-chuan-lcof/)|32 ms|15.2 MB|🔶|
 |[Offer064](https://leetcode.cn/problems/qiu-12n-lcof/)|36 ms|15.3 MB||
 |[Offer065](https://leetcode.cn/problems/bu-yong-jia-jian-cheng-chu-zuo-jia-fa-lcof/)|36 ms|14.9 MB||
 |[OfferII002](https://leetcode.cn/problems/JFETK5/)|28 ms|15 MB|🔶🔶|
