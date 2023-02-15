@@ -288,6 +288,7 @@
 |[1587](https://leetcode.cn/problems/bank-account-summary-ii/)|840 ms|0 B||
 |1601-1700 ⭕️|
 |[1608](https://leetcode.cn/problems/special-array-with-x-elements-greater-than-or-equal-x/)|32 ms|14.9 MB|🔶|
+|[1619](https://leetcode.cn/problems/mean-of-array-after-removing-some-elements/)|40 ms|14.9 MB||
 |[1629](https://leetcode.cn/problems/slowest-key/)|32 ms|15.1 MB|🔶|
 |[1636](https://leetcode.cn/problems/sort-array-by-increasing-frequency/)|36 ms|15.1 MB||
 |[1652](https://leetcode.cn/problems/defuse-the-bomb/)|36 ms|14.9 MB||
