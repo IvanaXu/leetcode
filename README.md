@@ -161,6 +161,7 @@
 |[0520](https://leetcode.cn/problems/detect-capital/)|32 ms|15 MB|🔶|
 |[0535](https://leetcode.cn/problems/encode-and-decode-tinyurl/)|32 ms|14.8 MB||
 |[0537](https://leetcode.cn/problems/complex-number-multiplication/)|32 ms|15 MB|🔶|
+|[0540](https://leetcode.cn/problems/single-element-in-a-sorted-array/)|36 ms|21.3 MB||
 |[0557](https://leetcode.cn/problems/reverse-words-in-a-string-iii/)|32 ms|15.6 MB|🔶|
 |[0561](https://leetcode.cn/problems/array-partition/)|84 ms|16.8 MB||
 |[0575](https://leetcode.cn/problems/distribute-candies/)|84 ms|16.6 MB||
