@@ -509,6 +509,7 @@
 |[Offer010I](https://leetcode.cn/problems/fei-bo-na-qi-shu-lie-lcof/)|28 ms|14.8 MB|🔶🔶|
 |[Offer010II](https://leetcode.cn/problems/qing-wa-tiao-tai-jie-wen-ti-lcof/)|28 ms|14.9 MB|🔶🔶|
 |[Offer015](https://leetcode.cn/problems/er-jin-zhi-zhong-1de-ge-shu-lcof/)|40 ms|14.7 MB||
+|[Offer016](https://leetcode.cn/problems/shu-zhi-de-zheng-shu-ci-fang-lcof/)|36 ms|14.9 MB||
 |[Offer017](https://leetcode.cn/problems/da-yin-cong-1dao-zui-da-de-nwei-shu-lcof/)|44 ms|20.7 MB||
 |[Offer018](https://leetcode.cn/problems/shan-chu-lian-biao-de-jie-dian-lcof/)|36 ms|15.3 MB|🔶|
 |[Offer021](https://leetcode.cn/problems/diao-zheng-shu-zu-shun-xu-shi-qi-shu-wei-yu-ou-shu-qian-mian-lcof/)|52 ms|19.6 MB||
