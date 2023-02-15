@@ -524,7 +524,8 @@
 |[Offer052](https://leetcode.cn/problems/liang-ge-lian-biao-de-di-yi-ge-gong-gong-jie-dian-lcof/)|144 ms|30.4 MB||
 |[Offer053I](https://leetcode.cn/problems/zai-pai-xu-shu-zu-zhong-cha-zhao-shu-zi-lcof/)|24 ms|16.4 MB|🔶🔶|
 |[Offer053II](https://leetcode.cn/problems/que-shi-de-shu-zi-lcof/)|32 ms|15.8 MB||
-|[Offer056](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|36 ms|17.1 MB|🔶🔶|
+|[Offer056I](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-lcof/)|36 ms|17.1 MB|🔶🔶|
+|[Offer056II](https://leetcode.cn/problems/shu-zu-zhong-shu-zi-chu-xian-de-ci-shu-ii-lcof/)|52 ms|16.4 MB||
 |[Offer057](https://leetcode.cn/problems/he-wei-sde-liang-ge-shu-zi-lcof/)|108 ms|25.9 MB||
 |[Offer058I](https://leetcode.cn/problems/fan-zhuan-dan-ci-shun-xu-lcof/)|36 ms|15.4 MB||
 |[Offer064](https://leetcode.cn/problems/qiu-12n-lcof/)|36 ms|15.3 MB||
