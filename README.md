@@ -185,6 +185,7 @@
 |[0703](https://leetcode.cn/problems/kth-largest-element-in-a-stream/)|1056 ms|18.8 MB||
 |[0704](https://leetcode.cn/problems/binary-search/)|28 ms|16.1 MB|🔶🔶|
 |[0709](https://leetcode.cn/problems/to-lower-case/)|28 ms|14.8 MB|🔶|
+|[0724](https://leetcode.cn/problems/find-pivot-index/)|44 ms|15.9 MB|🔶|
 |[0728](https://leetcode.cn/problems/self-dividing-numbers/)|60 ms|14.9 MB||
 |[0744](https://leetcode.cn/problems/find-smallest-letter-greater-than-target/)|32 ms|16.9 MB|🔶|
 |[0747](https://leetcode.cn/problems/largest-number-at-least-twice-of-others/)|28 ms|14.9 MB|🔶🔶|
