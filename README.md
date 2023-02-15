@@ -475,6 +475,7 @@
 |[ITV02.05](https://leetcode.cn/problems/sum-lists-lcci/)|60 ms|15.2 MB||
 |[ITV02.06](https://leetcode.cn/problems/palindrome-linked-list-lcci/)|52 ms|25.2 MB|🔶🔶|
 |[ITV02.07](https://leetcode.cn/problems/intersection-of-two-linked-lists-lcci/)|148 ms|30.4 MB||
+|[ITV03.01](https://leetcode.cn/problems/three-in-one-lcci/)|108 ms|22.3 MB|🔶|
 |[ITV03.02](https://leetcode.cn/problems/min-stack-lcci/)|540 ms|18.5 MB||
 |[ITV03.04](https://leetcode.cn/problems/implement-queue-using-stacks-lcci/)|32 ms|15 MB||
 |[ITV03.05](https://leetcode.cn/problems/sort-of-stacks-lcci/)|56 ms|16.2 MB||
