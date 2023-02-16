@@ -1,10 +1,10 @@
 # leetcode
 > https://leetcode.cn/u/ivanaxu/
 
-[![Website](https://img.shields.io/website?label=Rank&up_color=orange&url=https%3A%2F%2Fshields.io&up_message=25,700)]()
-[![Website](https://img.shields.io/website?label=@All&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=506)]()
-[![Website](https://img.shields.io/website?label=Easy&up_color=green&url=https%3A%2F%2Fshields.io&up_message=388)]()
-[![Website](https://img.shields.io/website?label=Medium&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=104)]()
+[![Website](https://img.shields.io/website?label=Rank&up_color=orange&url=https%3A%2F%2Fshields.io&up_message=23,863)]()
+[![Website](https://img.shields.io/website?label=@All&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=521)]()
+[![Website](https://img.shields.io/website?label=Easy&up_color=green&url=https%3A%2F%2Fshields.io&up_message=395)]()
+[![Website](https://img.shields.io/website?label=Medium&up_color=yellow&url=https%3A%2F%2Fshields.io&up_message=112)]()
 [![Website](https://img.shields.io/website?label=Hard&up_color=red&url=https%3A%2F%2Fshields.io&up_message=14)]()
 [![Website](https://img.shields.io/github/languages/code-size/IvanaXu/leetcode)]()
 [![Website](https://img.shields.io/github/directory-file-count/IvanaXu/leetcode)]()
