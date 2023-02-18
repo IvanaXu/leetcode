@@ -487,6 +487,7 @@
 |[ITV08.03](https://leetcode.cn/problems/magic-index-lcci/)|28 ms|15.7 MB|🔶|
 |[ITV10.01](https://leetcode.cn/problems/sorted-merge-lcci/)|36 ms|14.9 MB|🔶|
 |[ITV10.05](https://leetcode.cn/problems/sparse-array-search-lcci/)|36 ms|15.3 MB||
+|[ITV16.02](https://leetcode.cn/problems/words-frequency-lcci/)|264 ms|43.2 MB||
 |[ITV16.05](https://leetcode.cn/problems/factorial-zeros-lcci/)|32 ms|14.9 MB|🔶|
 |[ITV16.07](https://leetcode.cn/problems/maximum-lcci/)|40 ms|14.9 MB||
 |[ITV16.15](https://leetcode.cn/problems/master-mind-lcci/)|28 ms|15 MB|🔶|
